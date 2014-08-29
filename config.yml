@@ -1,0 +1,504 @@
+users:
+  mete0:
+    groups:
+    - root
+    permissions:
+      headhunter.drop: false
+      essentials.silentjoin.vanish: true
+      essentials.joinfullserver: true
+      essentials.speed.bypass: true
+      essentials.eco: true
+      essentials.exp.set: true
+      essentials.exp.set.others: true
+      essentials.exp.give: true
+      essentials.exp.give.others: true
+  nyastor_:
+    groups:
+    - root
+  dsaaaaaaaASDD:
+    groups:
+    - hidden
+  Maironaur:
+    groups:
+    - default
+  sallad1n:
+    groups:
+    - moder
+  tur1k_:
+    groups:
+    - default
+  demonxx:
+    groups:
+    - moder
+  faust_morrowizn:
+    groups:
+    - moder
+  mephisto_tersis:
+    groups:
+    - moder
+  minner:
+    groups:
+    - moder
+    - worldedit
+  ahzaza353:
+    groups:
+    - helper
+    permissions:
+      essentials.hat: true
+      essentials.nick.use: true
+      essentials.nick: true
+      essentials.nick.color: true
+      essentials.nick.format: true
+      essentials.gamemode: true
+  nigga:
+    groups:
+    - helper
+  silird:
+    groups:
+    - moder
+    permissions:
+      essentials.nick: true
+  kasabian:
+    groups:
+    - helper
+  enderdragon165:
+    groups:
+    - moder
+    permissions:
+      essentials.nick: true
+  littlefox:
+    groups:
+    - helper
+groups:
+  default:
+    permissions:
+      essentials.exp: true
+      headhunter.drop: true
+      bukkit.command.plugins: false
+      worldedit.selection.pos: true
+      worldedit.selection.hpos: true
+      worldedit.wand: true
+      worldedit.wand.toggle: true
+      worldedit.selection.expand: true
+      worldedit.help: true
+      essentials.keepxp: true
+      essentials.chat.shout: true
+      essentials.chat.question: true
+      essentials.signs.use.protection: false
+      essentials.signs.create.protection: true
+      essentials.warps.end: true
+      essentials.warps.shop: true
+      essentials.warps.games: true
+      essentials.warps.football: true
+      essentials.warps.hell: true
+      essentials.warp: true
+      essentials.warp.list: true
+      essentials.signs.custom.use: true
+      essentials.signs.break.protection: true
+      essentials.signs.use.balance: true
+      essentials.signs.use.buy: true
+      essentials.signs.use.disposal: false
+      essentials.signs.use.enchant: false
+      essentials.signs.use.free: false
+      essentials.signs.use.gamemode: false
+      essentials.signs.use.heal: false
+      essentials.signs.use.info: false
+      essentials.signs.use.kit: true
+      essentials.signs.use.mail: false
+      essentials.signs.use.repair: false
+      essentials.signs.use.sell: false
+      essentials.signs.use.time: false
+      essentials.signs.use.trade: false
+      essentials.signs.use.warp: true
+      essentials.signs.use.weather: false
+      essentials.silentquit: true
+      essentials.silentjoin: true
+      essentials.sethome.multiple: true
+      essentials.msg: true
+      essentials.balance: true
+      essentials.mail: false
+      essentials.help: true
+      essentials.afk: true
+      essentials.spawn: true
+      essentials.home: true
+      essentials.home.bed: true
+      essentials.sethome: true
+      essentials.delhome: true
+      essentials.tpa: true
+      essentials.tpaccept: true
+      essentials.tpahere: true
+      essentials.tpdeny: true
+      essentials.suicide: true
+      essentials.rules: true
+      essentials.list: true
+      essentials.kit: true
+      essentials.kits.start: true
+      essentials.time: true
+      essentials.ping: true
+      essentials.ignore: true
+      minecraft.command.me: false
+  vip:
+    permissions:
+      essentials.fly: true
+      essentials.fly.safelogin: true
+      essentials.kits.vip_daily: true
+      essentials.kits.vip_monthly: true
+    inheritance:
+    - default
+  helper:
+    permissions:
+      worldprotect.region.unlimited: true
+      essentials.exp.others: true
+      essentials.sleepingignored: true
+      essentials.kits.build: true
+      essentials.chat.color: true
+      essentials.tp: true
+      essentials.chat.ignoreexempt: true
+      essentials.clearinventory: true
+      essentials.fly: true
+      essentials.fly.safelogin: true
+      essentials.god: true
+      essentials.back: true
+      essentials.back.ondeath: true
+      essentials.hat: true
+      essentials.nick: false
+      essentials.nick.color: true
+      essentials.nick.format: true
+      essentials.kick: true
+      essentials.mute: true
+      essentials.mute.notify: true
+      essentials.kick.notify: true
+      essentials.ban.notify: true
+    inheritance:
+    - default
+  moder:
+    permissions:
+      worldprotect.moder: true
+      essentials.gc: true
+      essentials.hat: true
+      essentials.gamemode: true
+      essentials.tempban: true
+      essentials.afk.kickexempt: true
+      essentials.kill: true
+      essentials.spawn.others: true
+      essentials.home.others: true
+      essentials.tp.others: true
+      essentials.tp.position: true
+      essentials.tpaall: true
+      essentials.tphere: true
+      essentials.warp.otherplayers: true
+      essentials.world: true
+      essentials.top: true
+      essentials.firework: true
+      essentials.feed: true
+      essentials.feed.others: true
+      essentials.heal: true
+      essentials.heal.others: true
+      essentials.whois: true
+      essentials.me: true
+      essentials.motd: true
+      essentials.kit.others: true
+      essentials.getpos.others: true
+      essentials.ptime: true
+      essentials.ptime.others: true
+      essentials.enderchest: true
+      essentials.enderchest.others: true
+      essentials.invsee: true
+      essentials.kick: true
+      essentials.kick.notify: true
+      essentials.mute: true
+      essentials.mute.notify: true
+      essentials.vanish: true
+      essentials.vanish.effect: true
+      essentials.seen: true
+      essentials.seen.banreason: true
+      essentials.seen.extra: true
+      essentials.seen.ipsearch: true
+      essentials.near: true
+      essentials.recipe: true
+      essentials.ext: true
+      essentials.item: true
+      essentials.speed: true
+    inheritance:
+    - helper
+  admin:
+    permissions:
+      attack.pass_fly_attack: true
+      attack.pass_god_attack: true
+      worldprotect.admin: true
+      essentials.kits.vip_daily: true
+      essentials.kits.vip_monthly: true
+      essentials.signs.color: true
+      essentials.signs.protection.override: true
+      essentials.speed.fly: true
+      essentials.banip: true
+      essentials.unbanip: true
+      essentials.chat.url: true
+      essentials.ban: true
+      essentials.unban: true
+      essentials.ban.exempt: true
+      essentials.broadcast: true
+      essentials.fly.others: true
+      essentials.gamemode.others: true
+      essentials.god.others: true
+      essentials.kill.exempt: true
+      essentials.setspawn: true
+      essentials.sethome.others: true
+      essentials.sethome.multiple.unlimited: true
+      essentials.delhome.others: true
+      essentials.setwarp: true
+      essentials.delwarp: true
+      essentials.warp.overwrite.*: true
+      essentials.tpall: true
+      essentials.break: true
+      essentials.break.bedrock: true
+      essentials.enchant: true
+      essentials.firework.fire: true
+      essentials.mail.sendall: true
+      essentials.msg.color: true
+      essentials.msg.magic: true
+      essentials.msg.format: true
+      essentials.msg.url: true
+      essentials.list.hidden: true
+      essentials.kit.exemptdelay: true
+      essentials.time.set: true
+      essentials.realname: true
+      essentials.antioch: true
+      essentials.enderchest.modify: true
+      essentials.invsee.modify: true
+      essentials.kick.exempt: true
+      essentials.lightning: true
+      essentials.lightning.others: true
+      essentials.burn: true
+      essentials.killall: true
+      essentials.remove: true
+      essentials.mute.exempt: true
+      essentials.vanish.see: true
+      essentials.vanish.interact: true
+      essentials.vanish.others: true
+      essentials.vanish.effect: false
+      essentials.weather: true
+      essentials.spawner: true
+      essentials.spawner.*: true
+      essentials.nick: true
+      essentials.nick.others: true
+      essentials.nick.color: true
+      essentials.nick.magic: true
+      essentials.nick.format: true
+      essentials.clearinventory.others: true
+      essentials.socialspy: true
+      essentials.spawnmob: true
+      essentials.spawnmob.*: true
+      essentials.spawnmob.stack: true
+      essentials.tempban.exempt: true
+      essentials.thunder: true
+      essentials.itemspawn.exempt: true
+      essentials.itemspawn.item-all: true
+      essentials.oversizedstacks: true
+      essentials.itemspawn.meta-title: true
+      essentials.itemspawn.meta-author: true
+      essentials.itemspawn.meta-lore: true
+      essentials.itemspawn.meta-book: true
+      essentials.itemspawn.meta-head: true
+      essentials.itemspawn.meta-firework: true
+      essentials.more: true
+      essentials.repair: true
+      essentials.repair.armor: true
+      essentials.repair.enchanted: true
+      essentials.repair.all: true
+      essentials.speed.others: true
+      essentials.speed.walk: true
+      essentials.unlimited: true
+      essentials.enchantments.*: true
+    inheritance:
+    - moder
+    - worldedit
+    - libsdisguises
+  builder:
+    inheritance:
+    - admin
+  hidden:
+    inheritance:
+    - root
+  root:
+    permissions:
+      permissions.*: true
+      permissions.reload: true
+      bukkit.command.reload: true
+      bukkit.command.plugins: true
+      bukkit.command.gamerule: true
+      commandblock.use: true
+      mongoauth.admin: true
+      plugman.help: true
+      plugman.list: true
+      plugman.info: true
+      plugman.usage: true
+      plugman.enable: true
+      plugman.enable.all: true
+      plugman.disable: true
+      plugman.disable.all: true
+      plugman.restart: true
+      plugman.restart.all: true
+      plugman.load: true
+      plugman.reload: true
+      plugman.unload: true
+      worldedit.limit: true
+      worldedit.global-mask: true
+      worldedit.scripting.execute: true
+      essentials.essentials: true
+      essentials.butcher: true
+      essentials.enchantments.allowunsafe: false
+      essentials.god.pvp: true
+      essentials.invsee.preventmodify: true
+      essentials.kickall: true
+      essentials.ban.offline: true
+      essentials.mute.offline: true
+      essentials.tempban.offline: true
+      essentials.sudo: true
+      essentials.sudo.exempt: true
+      essentials.socialspy.others: true
+      essentials.speed.bypass: false
+      essentials.unlimited.item-bucket: true
+      essentials.unlimited.others: true
+      essentials.signs.create.custom: true
+      essentials.signs.create.balance: true
+      essentials.signs.create.buy: true
+      essentials.signs.create.disposal: true
+      essentials.signs.create.enchant: true
+      essentials.signs.create.free: true
+      essentials.signs.create.gamemode: true
+      essentials.signs.create.heal: true
+      essentials.signs.create.info: true
+      essentials.signs.create.kit: true
+      essentials.signs.create.mail: true
+      essentials.signs.create.repair: true
+      essentials.signs.create.sell: true
+      essentials.signs.create.time: true
+      essentials.signs.create.trade: true
+      essentials.signs.create.warp: true
+      essentials.signs.create.weather: true
+      essentials.signs.break.kit: true
+      essentials.signs.break.buy: true
+      essentials.signs.break.custom: true
+      essentials.weather: true
+    inheritance:
+    - admin
+  libsdisguises:
+    permissions:
+      libsdisguises.seecmd.disguise: true
+      libsdisguises.seecmd.disguiseentity: true
+      libsdisguises.seecmd.disguisehelp: true
+      libsdisguises.seecmd.disguiseplayer: true
+      libsdisguises.seecmd.disguiseradius: true
+      libsdisguises.seecmd.undisguise: true
+      libsdisguises.seecmd.undisguiseentity: true
+      libsdisguises.seecmd.undisguiseplayer: true
+      libsdisguises.seecmd.undisguiseradius: true
+      libsdisguises.seecmd.disguiseclone: true
+      libsdisguises.disguise.*: true
+      libsdisguises.disguise.*.*: true
+      libsdisguises.disguiseplayer.*: true
+      libsdisguises.disguiseplayer.*.*: true
+      libsdisguises.disguiseradius: true
+      libsdisguises.undisguise: true
+      libsdisguises.undisguiseentity: true
+      libsdisguises.undisguiseplayer: true
+      libsdisguises.undisguiseradius: true
+  worldedit:
+    permissions:
+      worldedit.biome.list: true
+      worldedit.biome.info: true
+      worldedit.biome.set: true
+      worldedit.brush.sphere: true
+      worldedit.brush.cylinder: true
+      worldedit.brush.clipboard: true
+      worldedit.brush.smooth: true
+      worldedit.brush.ex: true
+      worldedit.brush.gravity: true
+      worldedit.chunk.info: true
+      worldedit.chunk.list: true
+      worldedit.chunk.delete: true
+      worldedit.clipboard.copy: true
+      worldedit.clipboard.cut: true
+      worldedit.clipboard.paste: true
+      worldedit.clipboard.rotate: true
+      worldedit.clipboard.flip: true
+      worldedit.clipboard.clear: true
+      worldedit.fast: true
+      worldedit.generation.cylinder: true
+      worldedit.generation.sphere: true
+      worldedit.generation.pumpkins: true
+      worldedit.generation.pyramid: true
+      worldedit.generation.shape: true
+      worldedit.history.undo: true
+      worldedit.history.redo: true
+      worldedit.history.clear: true
+      worldedit.navigation.unstuck: true
+      worldedit.navigation.ascend: true
+      worldedit.navigation.descend: true
+      worldedit.navigation.ceiling: true
+      worldedit.navigation.thru.command: true
+      worldedit.navigation.jumpto.command: true
+      worldedit.navigation.thru.tool: true
+      worldedit.navigation.jumpto.tool: true
+      worldedit.navigation.up: true
+      worldedit.region.set: true
+      worldedit.region.line: true
+      worldedit.region.replace: true
+      worldedit.region.overlay: true
+      worldedit.region.center: true
+      worldedit.region.naturalize: true
+      worldedit.region.walls: true
+      worldedit.region.faces: true
+      worldedit.region.smooth: true
+      worldedit.region.move: true
+      worldedit.region.stack: true
+      worldedit.region.flora: true
+      worldedit.region.forest: true
+      worldedit.regen: true
+      worldedit.region.deform: true
+      worldedit.region.hollow: true
+      worldedit.schematic.list: true
+      worldedit.schematic.load: true
+      worldedit.schematic.save: true
+      worldedit.schematic.formats: true
+      worldedit.selection.chunk: true
+      worldedit.selection.contract: true
+      worldedit.selection.shift: true
+      worldedit.selection.outset: true
+      worldedit.selection.inset: true
+      worldedit.selection.size: true
+      worldedit.analysis.count: true
+      worldedit.analysis.distr: true
+      worldedit.snapshots.list: true
+      worldedit.snapshots.restore: true
+      worldedit.superpickaxe: true
+      worldedit.superpickaxe.area: true
+      worldedit.superpickaxe.recursive: true
+      worldedit.tool.info: true
+      worldedit.tool.tree: true
+      worldedit.tool.replacer: true
+      worldedit.tool.data-cycler: true
+      worldedit.tool.flood-fill: true
+      worldedit.tool.deltree: true
+      worldedit.tool.farwand: true
+      worldedit.tool.lrbuild: true
+      worldedit.brush.options.mask: true
+      worldedit.brush.options.material: true
+      worldedit.brush.options.range: true
+      worldedit.brush.options.size: true
+      worldedit.fill: true
+      worldedit.fill.recursive: true
+      worldedit.drain: true
+      worldedit.fixlava: true
+      worldedit.fixwater: true
+      worldedit.removeabove: true
+      worldedit.removebelow: true
+      worldedit.removenear: true
+      worldedit.replacenear: true
+      worldedit.snow: true
+      worldedit.thaw: true
+      worldedit.green: true
+      worldedit.extinguish: true
+      worldedit.remove: true
+debug: false
