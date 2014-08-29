@@ -68,7 +68,7 @@ users:
     - helper
   narciss:
     groups:
-    - default
+    - creative
 groups:
 # Группа по-умолчанию
   default:
@@ -489,3 +489,9 @@ groups:
       worldedit.green: true
       worldedit.extinguish: true
       worldedit.remove: true
+#
+  creative:
+    permissions:
+      essentials.gamemode: true
+    inheritance:
+    - default
