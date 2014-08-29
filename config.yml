@@ -321,8 +321,6 @@ groups:
     - root
   root:
     permissions:
-      permissions.*: true
-      permissions.reload: true
       bukkit.command.reload: true
       bukkit.command.plugins: true
       bukkit.command.gamerule: true
