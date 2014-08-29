@@ -51,7 +51,6 @@ users:
     groups:
     - helper
     permissions:
-      essentials.nick.use: true
       essentials.gamemode: true
   nigga:
     groups:
