@@ -491,7 +491,7 @@ groups:
       worldedit.remove: true
   creative
    permissions:
-   essentials.gamemode: true
-  inheritance:
+      essentials.gamemode: true
+   inheritance:
     - default
 
