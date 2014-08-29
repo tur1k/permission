@@ -37,6 +37,7 @@ users:
   mephisto_tersis:
     groups:
     - moder
+    - worldedit
   silird:
     groups:
     - moder
@@ -228,9 +229,6 @@ groups:
       essentials.setwarp: true
       essentials.delwarp: true
       essentials.warp.overwrite.*: true
-      essentials.tpall: true
-      essentials.break: true
-      essentials.break.bedrock: true
       essentials.enchant: true
       essentials.firework.fire: true
       essentials.mail.sendall: true
@@ -303,9 +301,6 @@ groups:
       essentials.kickall: true
       essentials.ban.offline: true
       essentials.mute.offline: true
-      essentials.tempban.offline: true
-      essentials.sudo: true
-      essentials.sudo.exempt: true
       essentials.socialspy.others: true
       essentials.signs.create.custom: true
       essentials.signs.create.balance: true
