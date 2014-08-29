@@ -27,7 +27,7 @@ users:
     - libsdisguises
   Maironaur:
     groups:
-    - default
+    - builder
   demonxx:
     groups:
     - moder
