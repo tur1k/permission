@@ -492,4 +492,6 @@ groups:
   creative
    permissions:
    essentials.gamemode: true
+  inheritance:
+    - default
 
