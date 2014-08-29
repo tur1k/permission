@@ -25,6 +25,8 @@ users:
     groups:
     - admin
     - worldedit
+   permissions:
+      commandblock.use: true
   sallad1n:
     groups:
     - moder
