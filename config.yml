@@ -23,7 +23,8 @@ users:
     - libsdisguises
   tur1k_:
     groups:
-    - hidden
+    - admin
+    - worldedit
   sallad1n:
     groups:
     - moder
