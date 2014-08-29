@@ -74,7 +74,6 @@ groups:
     permissions:
       essentials.exp: true
       headhunter.drop: true
-      bukkit.command.plugins: false
       worldedit.selection.pos: true
       worldedit.selection.hpos: true
       worldedit.wand: true
