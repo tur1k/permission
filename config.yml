@@ -257,7 +257,6 @@ groups:
       essentials.vanish.interact: true
       essentials.vanish.others: true
       essentials.vanish.effect: false
-      essentials.weather: true
       essentials.spawner: true
       essentials.spawner.*: true
       essentials.nick.others: true
@@ -300,7 +299,6 @@ groups:
       essentials.joinfullserver: true
       essentials.essentials: true
       essentials.butcher: true
-      essentials.enchantments.allowunsafe: false
       essentials.god.pvp: true
       essentials.invsee.preventmodify: true
       essentials.kickall: true
@@ -310,9 +308,6 @@ groups:
       essentials.sudo: true
       essentials.sudo.exempt: true
       essentials.socialspy.others: true
-      essentials.speed.bypass: false
-      essentials.unlimited.item-bucket: true
-      essentials.unlimited.others: true
       essentials.signs.create.custom: true
       essentials.signs.create.balance: true
       essentials.signs.create.buy: true
