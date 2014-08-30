@@ -70,6 +70,8 @@ users:
   narciss:
     groups:
     - creative
+    - admin
+    - worldedit
 groups:
 # Группа по-умолчанию
   default:
