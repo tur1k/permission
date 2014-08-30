@@ -24,9 +24,7 @@ users:
   tur1k_:
     groups:
     - admin
-    - worldedit
-    permissions:
-      commandblock.use: true
+    - root
   sallad1n:
     groups:
     - moder
