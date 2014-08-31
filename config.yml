@@ -71,7 +71,6 @@ users:
     groups:
     - creative
     - admin
-    - worldedit
 groups:
 # Группа по-умолчанию
   default:
