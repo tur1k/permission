@@ -1,7 +1,10 @@
+registerOnJoin: true
 users:
   mete0:
     groups:
     - root
+    - lobby
+    - libsdisguises
     permissions:
       headhunter.drop: false
       essentials.silentjoin.vanish: true
@@ -495,5 +498,7 @@ groups:
   creative:
     permissions:
       essentials.gamemode: true
-    inheritance:
-    - default
+#
+  lobby:
+    permissions:
+      worldrestriction.bypass: true
