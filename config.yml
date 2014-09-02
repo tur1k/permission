@@ -22,7 +22,7 @@ users:
       headhunter.drop: false
   dsaaaaaaaASDD:
     groups:
-    - hidden
+    - root
     - libsdisguises
   tur1k_:
     groups:
