@@ -17,17 +17,19 @@ users:
   nyastor_:
     groups:
     - root
+    - lobby
     - libsdisguises
     permissions:
       headhunter.drop: false
   dsaaaaaaaASDD:
     groups:
     - root
+    - lobby
     - libsdisguises
   tur1k_:
     groups:
-    - admin
     - root
+    - lobby
     - libsdisguises
   sallad1n:
     groups:
@@ -35,6 +37,7 @@ users:
     - libsdisguises
   Maironaur:
     groups:
+    - lobby
     - builder
   demonxx:
     groups:
@@ -54,6 +57,7 @@ users:
     - moder
   minner:
     groups:
+    - lobby
     - moder
     - worldedit
   ahzaza353:
