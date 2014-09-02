@@ -57,8 +57,8 @@ users:
     - moder
   minner:
     groups:
-    - lobby
     - moder
+    - lobby
     - worldedit
   ahzaza353:
     groups:
