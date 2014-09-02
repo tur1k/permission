@@ -305,6 +305,7 @@ groups:
       bukkit.command.reload: true
       bukkit.command.gamerule: true
       bukkit.command.give: true
+      minecraft.command.give: true
       commandblock.use: true
       worldedit.limit: true
       worldedit.global-mask: true
