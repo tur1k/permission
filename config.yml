@@ -1,3 +1,4 @@
+format: "[&6%prefix&r] &3%name&7:&r %message"
 users:
   mete0:
     groups:
@@ -76,6 +77,7 @@ users:
 groups:
 # Группа по-умолчанию
   default:
+    prefix: "Игрок"
     permissions:
       headhunter.drop: true
       worldedit.selection.pos: true
@@ -138,6 +140,7 @@ groups:
       essentials.ignore: true
 #
   helper:
+    prefix: "Помощник"
     permissions:
       worldprotect.region.unlimited: true
       essentials.exp.others: true
@@ -166,6 +169,7 @@ groups:
     - default
 #
   moder:
+    prefix: "Модератор"
     permissions:
       worldprotect.moder: true
       essentials.gc: true
@@ -214,6 +218,7 @@ groups:
     - helper
 #
   admin:
+    prefix: "Админ"
     permissions:
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
@@ -350,11 +355,13 @@ groups:
     - default
 # Группа строитель  
   builder:
+    prefix: "Архитектор"
     inheritance:
     - admin
     - worldedit
 # Скрытая группа, 
   hidden:
+    prefix: "Игрок"
     inheritance:
     - root
 # Вспомогательные группы
