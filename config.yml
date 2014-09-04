@@ -76,7 +76,6 @@ users:
     - helper
   narciss:
     groups:
-    - creative
     - admin
   ToyFon:
     groups:
