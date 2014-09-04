@@ -78,6 +78,9 @@ users:
     groups:
     - creative
     - admin
+  ToyFon:
+    groups:
+    - creative
 groups:
 # Группа по-умолчанию
   default:
@@ -507,6 +510,7 @@ groups:
       worldedit.remove: true
 #
   creative:
+    prefix: "Креатив"
     permissions:
       essentials.gamemode: true
 #
