@@ -54,6 +54,7 @@ users:
   silird:
     groups:
     - moder
+    - girl
   enderdragon165:
     groups:
     - moder
@@ -546,6 +547,6 @@ groups:
     prefix: "&5KOT"
 #
   girl:
-    prefix: "&dДевочка"
+    prefix: "&dСкромняшка"
     inheritance:
     - default
