@@ -89,10 +89,6 @@ users:
     groups:
     - alk
     - defaul
-  939567289:
-    groups:
-    - girl
-    - defaul
 groups:
 # Группа по-умолчанию
   default:
