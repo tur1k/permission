@@ -16,6 +16,7 @@ users:
       essentials.exp.give.others: true
   nyastor_:
     groups:
+    - imp
     - root
     - lobby
     - libsdisguises
@@ -153,7 +154,7 @@ groups:
       essentials.ignore: true
 #
   helper:
-    prefix: "Помощник"
+    prefix: "&aПомощник"
     permissions:
       worldprotect.region.unlimited: true
       essentials.exp.others: true
@@ -182,7 +183,7 @@ groups:
     - default
 #
   moder:
-    prefix: "Модератор"
+    prefix: "&1Модератор"
     permissions:
       worldprotect.moder: true
       essentials.gc: true
@@ -231,7 +232,7 @@ groups:
     - helper
 #
   admin:
-    prefix: "Админ"
+    prefix: "&cАдмин"
     permissions:
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
@@ -314,6 +315,7 @@ groups:
     - moder
 # 
   root:
+    prefix: "&4root"
     permissions:
       bukkit.command.reload: true
       bukkit.command.gamerule: true
@@ -525,7 +527,7 @@ groups:
       worldrestriction.bypass: true
 #
   kom:
-    prefix: "Коммунист"
+    prefix: "&4Коммунист"
     inheritance:
     - default
 #
@@ -534,3 +536,6 @@ groups:
 #
   alk:
     prefix: "&7Алкоголик"
+#
+  imp:
+    prefix: "&5император"
