@@ -80,6 +80,9 @@ users:
   ToyFon:
     groups:
     - creative
+  ZM09:
+    groups:
+    - kom
 groups:
 # Группа по-умолчанию
   default:
@@ -516,3 +519,8 @@ groups:
   lobby:
     permissions:
       worldrestriction.bypass: true
+#
+  kom:
+    prefix: "Коммунист"
+    inheritance:
+    - default
