@@ -88,6 +88,9 @@ users:
   jekins:
     groups:
     - alk
+  939567289:
+    groups:
+    - girl
 groups:
 # Группа по-умолчанию
   default:
@@ -539,3 +542,6 @@ groups:
 #
   imp:
     prefix: "&5KOT"
+#
+  girl:
+    prefix: "&d939567289"
