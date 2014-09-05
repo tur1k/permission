@@ -536,12 +536,18 @@ groups:
 #
   karas:
     prefix: "&4К&cа&eр&2а&bс&1и&5к"
+    inheritance:
+    - default
 #
   alk:
     prefix: "&7Алкоголик"
+    inheritance:
+    - default
 #
   imp:
     prefix: "&5KOT"
 #
   girl:
     prefix: "&Девочка"
+    inheritance:
+    - default
