@@ -550,6 +550,6 @@ groups:
     prefix: "&5KOT"
 #
   girl:
-    prefix: "&Девочка"
+    prefix: "&dДевочка"
     inheritance:
     - default
