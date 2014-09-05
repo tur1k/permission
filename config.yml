@@ -84,6 +84,9 @@ users:
   ZM09:
     groups:
     - kom
+  jekins:
+    groups:
+    - alk
 groups:
 # Группа по-умолчанию
   default:
@@ -528,3 +531,6 @@ groups:
 #
   karas:
     prefix: "&4К&cа&eр&2а&bс&1и&5к"
+#
+  alk:
+    prefix: "&7Алкоголик"
