@@ -28,6 +28,7 @@ users:
     - libsdisguises
   tur1k_:
     groups:
+    - karas
     - root
     - lobby
     - libsdisguises
