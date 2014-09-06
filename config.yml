@@ -87,7 +87,7 @@ users:
   jekins:
     groups:
     - alk
-    - defaul
+    - default
 groups:
 # Группа по-умолчанию
   default:
@@ -538,8 +538,6 @@ groups:
 #
   alk:
     prefix: "&7Алкоголик"
-    inheritance:
-    - default
 #
   imp:
     prefix: "&5KOT"
