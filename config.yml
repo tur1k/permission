@@ -83,6 +83,7 @@ users:
   ToyFon:
     groups:
     - creative
+    - default
   jekins:
     groups:
     - alk
