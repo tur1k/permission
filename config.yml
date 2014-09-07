@@ -55,6 +55,8 @@ users:
     groups:
     - girl
     - moder
+    permissions:
+      worldprotect.admin: true
   enderdragon165:
     groups:
     - moder
