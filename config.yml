@@ -38,8 +38,8 @@ users:
     - libsdisguises
   Maironaur:
     groups:
-    - lobby
     - builder
+    - lobby
   demonxx:
     groups:
     - moder
