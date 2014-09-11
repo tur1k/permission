@@ -67,8 +67,7 @@ users:
   ahzaza353:
     groups:
     - helper
-    permissions:
-      essentials.gamemode: true
+    - creative
   nigga:
     groups:
     - helper
