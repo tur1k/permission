@@ -88,6 +88,9 @@ users:
     groups:
     - alk
     - default
+  Licorice12_1:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
