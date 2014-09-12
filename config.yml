@@ -159,7 +159,7 @@ groups:
   helper:
     prefix: "&aПомощник"
     permissions:
-      worldprotect.region.unlimited: true
+      worldprotect.unlimited: true
       essentials.exp.others: true
       essentials.sleepingignored: true
       essentials.kits.build: true
