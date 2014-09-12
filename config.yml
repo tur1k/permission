@@ -24,6 +24,7 @@ users:
       headhunter.drop: false
       essentials.exp.give: true
       essentials.exp.give.others: true
+      essentials.speed.bypass: true
   dsaaaaaaaASDD:
     groups:
     - root
