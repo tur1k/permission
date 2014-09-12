@@ -22,6 +22,8 @@ users:
     - libsdisguises
     permissions:
       headhunter.drop: false
+      essentials.exp.give: true
+      essentials.exp.give.others: true
   dsaaaaaaaASDD:
     groups:
     - root
