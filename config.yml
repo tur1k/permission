@@ -85,6 +85,7 @@ users:
   ToyFon:
     groups:
     - creative
+    - helper
     - default
     permissions:
       essentials.tp.position: true
