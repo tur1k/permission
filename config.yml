@@ -89,6 +89,7 @@ users:
     permissions:
       essentials.tp.position: true
       essentials.tphere: true
+      essentials.tp: true
   jekins:
     groups:
     - alk
