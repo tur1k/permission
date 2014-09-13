@@ -86,6 +86,9 @@ users:
     groups:
     - creative
     - default
+    pemissions:
+      essentials.tp.position: true
+      essentials.tphere: true
   jekins:
     groups:
     - alk
