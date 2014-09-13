@@ -86,7 +86,7 @@ users:
     groups:
     - creative
     - default
-    pemissions:
+    permissions:
       essentials.tp.position: true
       essentials.tphere: true
   jekins:
