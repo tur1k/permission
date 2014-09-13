@@ -21,7 +21,6 @@ users:
     - lobby
     - libsdisguises
     permissions:
-      headhunter.drop: false
       essentials.exp.give: true
       essentials.exp.give.others: true
       essentials.speed.bypass: true
