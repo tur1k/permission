@@ -61,6 +61,7 @@ users:
   enderdragon165:
     groups:
     - moder
+    - lobby
   minner:
     groups:
     - moder
