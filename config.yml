@@ -255,7 +255,6 @@ groups:
       essentials.chat.url: true
       essentials.broadcast: true
       essentials.fly.others: true
-      essentials.gamemode.others: true
       essentials.god.others: true
       essentials.kill.exempt: true
       essentials.sethome.others: true
@@ -361,6 +360,7 @@ groups:
       essentials.signs.break.buy: true
       essentials.signs.break.custom: true
       essentials.weather: true
+      essentials.gamemode.others: true
     inheritance:
     - admin
     - plugman
