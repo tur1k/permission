@@ -24,6 +24,7 @@ users:
       essentials.exp.give: true
       essentials.exp.give.others: true
       essentials.speed.bypass: true
+      essentials.give: true
   dsaaaaaaaASDD:
     groups:
     - root
