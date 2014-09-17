@@ -52,8 +52,6 @@ users:
     groups:
     - girl
     - moder
-    permissions:
-      worldprotect.admin: true
   enderdragon165:
     groups:
     - moder
@@ -183,7 +181,7 @@ groups:
   moder:
     prefix: "&1Модератор"
     permissions:
-      worldprotect.moder: true
+      worldprotect.admin: true
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
@@ -235,7 +233,6 @@ groups:
       nocheatplus.bypass: true
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
-      worldprotect.admin: true
       essentials.kits.vip_daily: true
       essentials.kits.vip_monthly: true
       essentials.signs.color: true
