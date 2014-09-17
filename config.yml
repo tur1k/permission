@@ -178,6 +178,9 @@ groups:
       essentials.mute.notify: true
       essentials.kick.notify: true
       essentials.ban.notify: true
+    worlds:
+      lobby:
+        worldedit.wand: true
     inheritance:
     - default
 #
