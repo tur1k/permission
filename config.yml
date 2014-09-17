@@ -3,7 +3,6 @@ users:
   mete0:
     groups:
     - root
-    - lobby
     - libsdisguises
     permissions:
       headhunter.drop: false
@@ -18,7 +17,6 @@ users:
     groups:
     - imp
     - root
-    - lobby
     - libsdisguises
     permissions:
       essentials.exp.give: true
@@ -28,12 +26,10 @@ users:
   dsaaaaaaaASDD:
     groups:
     - root
-    - lobby
     - libsdisguises
   tur1k_:
     groups:
     - root
-    - lobby
     - libsdisguises
   sallad1n:
     groups:
@@ -42,7 +38,6 @@ users:
   Maironaur:
     groups:
     - builder
-    - lobby
   demonxx:
     groups:
     - moder
@@ -62,11 +57,9 @@ users:
   enderdragon165:
     groups:
     - moder
-    - lobby
   minner:
     groups:
     - moder
-    - lobby
     - worldedit
   ahzaza353:
     groups:
@@ -526,10 +519,6 @@ groups:
     prefix: "Креатив"
     permissions:
       essentials.gamemode: true
-#
-  lobby:
-    permissions:
-      worldrestriction.bypass: true
 #
   kom:
     prefix: "&4Коммунист"
