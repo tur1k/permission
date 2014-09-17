@@ -148,6 +148,9 @@ groups:
       essentials.kits.start: true
       essentials.time: true
       essentials.ignore: true
+    worlds:
+      lobby:
+        worldedit.wand: false
 #
   helper:
     prefix: "&aПомощник"
