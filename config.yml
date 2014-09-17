@@ -232,6 +232,7 @@ groups:
   admin:
     prefix: "&cАдмин"
     permissions:
+      nocheatplus.bypass: true
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
       worldprotect.admin: true
