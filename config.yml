@@ -181,6 +181,7 @@ groups:
     worlds:
       lobby:
         worldedit.wand: true
+        bukkit.command.gamemode: true
     inheritance:
     - default
 #
