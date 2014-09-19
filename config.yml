@@ -360,6 +360,7 @@ groups:
       essentials.signs.break.custom: true
       essentials.weather: true
       essentials.gamemode.others: true
+      spawn.set: true
     inheritance:
     - admin
     - plugman
