@@ -15,7 +15,6 @@ users:
       essentials.exp.give.others: true
   nyastor_:
     groups:
-    - imp
     - root
     - libsdisguises
     permissions:
@@ -23,6 +22,8 @@ users:
       essentials.exp.give.others: true
       essentials.speed.bypass: true
       essentials.give: true
+      worldedit.wand: true
+      bukkit.command.gamemode: true
   dsaaaaaaaASDD:
     groups:
     - root
@@ -525,21 +526,8 @@ groups:
     permissions:
       essentials.gamemode: true
 #
-  kom:
-    prefix: "&4Коммунист"
-    inheritance:
-    - default
-#
-  karas:
-    prefix: "&4К&cа&eр&2а&bс&1и&5к"
-    inheritance:
-    - default
-#
   alk:
     prefix: "&7Алкоголик"
-#
-  imp:
-    prefix: "&5KOT"
 #
   girl:
     prefix: "&dСкромняшка"
