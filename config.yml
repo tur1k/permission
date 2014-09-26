@@ -34,7 +34,8 @@ users:
     - libsdisguises
   sallad1n:
     groups:
-    - moder
+    - saloasis
+    - root
     - libsdisguises
   Maironaur:
     groups:
@@ -73,9 +74,6 @@ users:
   littlefox:
     groups:
     - helper
-  narciss:
-    groups:
-    - admin
   ToyFon:
     groups:
     - creative
@@ -522,6 +520,8 @@ groups:
       worldedit.green: true
       worldedit.extinguish: true
       worldedit.remove: true
+  saloasis:
+    prefix: "Сало"
 #
   creative:
     prefix: "Креатив"
