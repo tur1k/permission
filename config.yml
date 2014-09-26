@@ -90,6 +90,7 @@ groups:
   default:
     prefix: "Игрок"
     permissions:
+      bukkit.command.me: false
       headhunter.drop: true
       worldedit.selection.pos: true
       worldedit.selection.hpos: true
