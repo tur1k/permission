@@ -35,7 +35,7 @@ users:
   sallad1n:
     groups:
     - saloasis
-    - root
+    - admin
     - libsdisguises
   Maironaur:
     groups:
@@ -50,6 +50,9 @@ users:
     groups:
     - moder
     - worldedit
+  narciss:
+    groups:
+    - admin
   silird:
     groups:
     - girl
