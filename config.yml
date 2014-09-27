@@ -35,7 +35,7 @@ users:
   sallad1n:
     groups:
     - saloasis
-    - moder
+    - admin
     - libsdisguises
   Maironaur:
     groups:
