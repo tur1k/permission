@@ -67,7 +67,7 @@ users:
     groups:
     - alk
     - default
-  AT13
+  AT13:
     groups:
     - helper
 groups:
