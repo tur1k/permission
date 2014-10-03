@@ -40,6 +40,9 @@ users:
   Maironaur:
     groups:
     - builder
+  faust_morrowizn:
+    groups:
+    - moder
   mephisto_tersis:
     groups:
     - moder
