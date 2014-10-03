@@ -40,19 +40,10 @@ users:
   Maironaur:
     groups:
     - builder
-  demonxx:
-    groups:
-    - moder
-  faust_morrowizn:
-    groups:
-    - moder
   mephisto_tersis:
     groups:
     - moder
     - worldedit
-  narciss:
-    groups:
-    - admin
   silird:
     groups:
     - girl
@@ -62,19 +53,9 @@ users:
     - moder
   minner:
     groups:
-    - moder
+    - admin
     - worldedit
-  ahzaza353:
-    groups:
-    - helper
-    - creative
   nigga:
-    groups:
-    - helper
-  kasabian:
-    groups:
-    - helper
-  littlefox:
     groups:
     - helper
   ToyFon:
