@@ -28,18 +28,11 @@ users:
     groups:
     - root
     - libsdisguises
-  tur1k_:
-    groups:
-    - root
-    - libsdisguises
   sallad1n:
     groups:
     - saloasis
     - admin
     - libsdisguises
-  Maironaur:
-    groups:
-    - builder
   faust_morrowizn:
     groups:
     - moder
