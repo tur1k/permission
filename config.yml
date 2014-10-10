@@ -169,6 +169,7 @@ groups:
       lobby:
         worldedit.wand: true
         bukkit.command.gamemode: true
+        worldprotect.admin: false
     inheritance:
     - default
 #
