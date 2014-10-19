@@ -66,6 +66,10 @@ users:
   kasabian:
     groups:
     - helper
+  narciss:
+    groups:
+    - admin
+    - worldedit
 groups:
 # Группа по-умолчанию
   default:
