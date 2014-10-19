@@ -51,9 +51,6 @@ users:
     groups:
     - admin
     - worldedit
-  nigga:
-    groups:
-    - helper
   ToyFon:
     groups:
     - creative
