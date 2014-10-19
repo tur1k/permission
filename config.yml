@@ -63,10 +63,6 @@ users:
   AT13:
     groups:
     - helper
-  narciss:
-    groups:
-    - admin
-    - worldedit
   kasabian:
     groups:
     - helper
