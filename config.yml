@@ -66,6 +66,9 @@ users:
   kasabian:
     groups:
     - helper
+  LittleFox:
+    groups:
+    - helper
   narciss:
     groups:
     - admin
