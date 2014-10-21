@@ -32,17 +32,18 @@ users:
     - libsdisguises
   faust_morrowizn:
     groups:
-    - moder
+    - admin
+    - worldedit
   mephisto_tersis:
     groups:
-    - moder
+    - admin
     - worldedit
   silird:
     groups:
     - moder
   enderdragon165:
     groups:
-    - moder
+    - admin
   minner:
     groups:
     - admin
@@ -64,7 +65,7 @@ users:
     - helper
   LittleFox:
     groups:
-    - vip
+    - hepler
   narciss:
     groups:
     - admin
