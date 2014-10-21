@@ -14,6 +14,7 @@ users:
       essentials.exp.give.others: true
   nyastor_:
     groups:
+    - default
     - root
     - libsdisguises
     permissions:
