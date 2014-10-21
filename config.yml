@@ -65,7 +65,7 @@ users:
     - helper
   LittleFox:
     groups:
-    - hepler
+    - helper
   narciss:
     groups:
     - admin
