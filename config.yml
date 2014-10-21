@@ -87,7 +87,6 @@ groups:
       essentials.chat.shout: true
       essentials.warps.end: true
       essentials.warps.shop: true
-      essentials.warps.games: true
       essentials.warps.football: true
       essentials.warps.hell: true
       essentials.warp: true
@@ -95,23 +94,9 @@ groups:
       essentials.signs.create.protection: true
       essentials.signs.custom.use: true
       essentials.signs.break.protection: true
-      essentials.signs.use.protection: false
       essentials.signs.use.balance: true
       essentials.signs.use.buy: true
-      essentials.signs.use.disposal: false
-      essentials.signs.use.enchant: false
-      essentials.signs.use.free: false
-      essentials.signs.use.gamemode: false
-      essentials.signs.use.heal: false
-      essentials.signs.use.info: false
-      essentials.signs.use.kit: true
-      essentials.signs.use.mail: false
-      essentials.signs.use.repair: false
-      essentials.signs.use.sell: false
-      essentials.signs.use.time: false
-      essentials.signs.use.trade: false
       essentials.signs.use.warp: true
-      essentials.signs.use.weather: false
       essentials.silentquit: true
       essentials.silentjoin: true
       essentials.sethome.multiple: true
@@ -303,8 +288,6 @@ groups:
     prefix: "&4root"
     permissions:
       bukkit.command.gamerule: true
-      bukkit.command.give: true
-      commandblock.use: true
       worldedit.limit: true
       worldedit.global-mask: true
       worldedit.scripting.execute: true
