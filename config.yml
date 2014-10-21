@@ -78,7 +78,7 @@ users:
     - helper
   Licorice12_1:
     groups:
-     - vip
+    - vip
 groups:
 # Группа по-умолчанию
   default:
