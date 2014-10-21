@@ -65,11 +65,14 @@ users:
     - helper
   LittleFox:
     groups:
-    - helper
+    - vip
   narciss:
     groups:
     - admin
     - worldedit
+  Silvano:
+    groups:
+    - hepler
 groups:
 # Группа по-умолчанию
   default:
@@ -498,8 +501,3 @@ groups:
 #
   alk:
     prefix: "&7Алкоголик"
-#
-  girl:
-    prefix: "&dСкромняшка"
-    inheritance:
-    - default
