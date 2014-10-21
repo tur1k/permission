@@ -98,6 +98,7 @@ groups:
       essentials.warps.shop: true
       essentials.warps.football: true
       essentials.warps.hell: true
+      essentials.warps.newspawn: true
       essentials.warp: true
       essentials.warp.list: true
       essentials.signs.create.protection: true
