@@ -69,6 +69,12 @@ users:
     groups:
     - admin
     - worldedit
+  Spam_Dex:
+    groups:
+    - helper
+  Silvano:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
