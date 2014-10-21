@@ -14,7 +14,7 @@ users:
       essentials.exp.give.others: true
   nyastor_:
     groups:
-    - default
+    - igr
     - root
     - libsdisguises
     permissions:
@@ -506,3 +506,6 @@ groups:
 #
   alk:
     prefix: "&7Алкоголик"
+#
+  igr:
+    prefix: "игРАК"
