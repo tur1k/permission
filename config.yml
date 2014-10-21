@@ -69,12 +69,6 @@ users:
     groups:
     - admin
     - worldedit
-  Silvano:
-    groups:
-    - hepler
-  Spam_Dex:
-    groups:
-    - hepler
 groups:
 # Группа по-умолчанию
   default:
