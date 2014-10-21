@@ -21,8 +21,6 @@ users:
       essentials.exp.give.others: true
       essentials.speed.bypass: true
       essentials.give: true
-      worldedit.wand: true
-      bukkit.command.gamemode: true
   dsaaaaaaaASDD:
     groups:
     - root
@@ -138,6 +136,7 @@ groups:
       essentials.ignore: true
     worlds:
       lobby:
+        worldprotect.admin: false
         worldedit.wand: false
 #
   helper:
@@ -166,11 +165,6 @@ groups:
       essentials.mute.notify: true
       essentials.kick.notify: true
       essentials.ban.notify: true
-    worlds:
-      lobby:
-        worldedit.wand: true
-        bukkit.command.gamemode: true
-        worldprotect.admin: false
     inheritance:
     - default
 #
@@ -346,7 +340,11 @@ groups:
       essentials.signs.break.custom: true
       essentials.weather: true
       essentials.gamemode.others: true
-      spawn.set: true
+    worlds:
+      lobby:
+        worldedit.wand: true
+        bukkit.command.gamemode: true
+        spawn.set: true
     inheritance:
     - admin
     - plugman
