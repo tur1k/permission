@@ -77,9 +77,6 @@ users:
   Silvano:
     groups:
     - helper
-  Licorice12_1:
-    groups:
-    - vip
 groups:
 # Группа по-умолчанию
   default:
