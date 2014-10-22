@@ -41,6 +41,7 @@ users:
   silird:
     groups:
     - moder
+    - worldedit
   enderdragon165:
     groups:
     - admin
