@@ -84,6 +84,9 @@ users:
   proninyaroslav:
     groups:
     - helper
+  ahzaza353:
+    groups:
+    - moder
 groups:
 # Группа по-умолчанию
   default:
