@@ -81,6 +81,9 @@ users:
   WooW:
     groups:
     - helper
+  proninyaroslav:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
