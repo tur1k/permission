@@ -45,6 +45,7 @@ users:
   enderdragon165:
     groups:
     - admin
+    - worldedit
   minner:
     groups:
     - admin
