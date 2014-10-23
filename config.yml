@@ -55,10 +55,6 @@ users:
     - creative
     - helper
     - default
-  jekins:
-    groups:
-    - alk
-    - default
   AT13:
     groups:
     - helper
@@ -513,9 +509,3 @@ groups:
     prefix: "Креатив"
     permissions:
       essentials.gamemode: true
-#
-  alk:
-    prefix: "&7Алкоголик"
-#
-  igr:
-    prefix: "игРАК"
