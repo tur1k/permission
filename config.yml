@@ -42,6 +42,8 @@ users:
     groups:
     - moder
     - worldedit
+    permissions:
+      essentials.realname: true
   enderdragon165:
     groups:
     - admin
