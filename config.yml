@@ -25,11 +25,6 @@ users:
     groups:
     - root
     - libsdisguises
-  sallad1n:
-    groups:
-    - saloasis
-    - admin
-    - libsdisguises
   faust_morrowizn:
     groups:
     - admin
@@ -507,8 +502,6 @@ groups:
       worldedit.green: true
       worldedit.extinguish: true
       worldedit.remove: true
-  saloasis:
-    prefix: "Сало"
 #
   creative:
     prefix: "Креатив"
