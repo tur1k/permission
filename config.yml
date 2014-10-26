@@ -145,6 +145,7 @@ groups:
       essentials.exp.others: true
       essentials.sleepingignored: true
       essentials.kits.build: true
+      essentials.kits.vip_daily: true
       essentials.chat.color: true
       essentials.tp: true
       essentials.tp.position: true
