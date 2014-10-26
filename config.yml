@@ -147,6 +147,7 @@ groups:
       essentials.kits.build: true
       essentials.chat.color: true
       essentials.tp: true
+      essentials.tp.position: true
       essentials.chat.ignoreexempt: true
       essentials.clearinventory: true
       essentials.fly: true
@@ -178,7 +179,6 @@ groups:
       essentials.spawn.others: true
       essentials.home.others: true
       essentials.tp.others: true
-      essentials.tp.position: true
       essentials.tpaall: true
       essentials.tphere: true
       essentials.warp.otherplayers: true
