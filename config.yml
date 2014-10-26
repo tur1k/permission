@@ -80,6 +80,9 @@ users:
   ahzaza353:
     groups:
     - moder
+  _MrJake_:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
