@@ -80,6 +80,7 @@ users:
   ahzaza353:
     groups:
     - moder
+    - worldedit
   _MrJake_:
     groups:
     - helper
