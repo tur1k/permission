@@ -512,4 +512,4 @@ groups:
       essentials.gamemode: true
 #
   hleb:
-    prefix: "&cИстинный &aхлебушек"
+    prefix: "&cхлебушек"
