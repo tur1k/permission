@@ -45,7 +45,6 @@ users:
     - worldedit
   minner:
     groups:
-    - hleb
     - admin
     - worldedit
   ToyFon:
