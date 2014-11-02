@@ -96,6 +96,10 @@ users:
     groups:
     - shleb
     - default
+  cendreta:
+    groups:
+    - chleb
+    - default
 groups:
 # Группа по-умолчанию
   default:
@@ -527,3 +531,6 @@ groups:
 #
   shleb:
     prefix: "&eСвятой &aхлебушек"
+#
+  chleb:
+    prefix: "&eЦарица &aхлебушка"
