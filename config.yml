@@ -96,7 +96,7 @@ users:
     groups:
     - shleb
     - default
-  cendreta:
+  Cendreta:
     groups:
     - chleb
     - default
