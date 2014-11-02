@@ -43,10 +43,6 @@ users:
     groups:
     - admin
     - worldedit
-  minner:
-    groups:
-    - admin
-    - worldedit
   ToyFon:
     groups:
     - creative
