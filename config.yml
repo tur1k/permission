@@ -84,6 +84,18 @@ users:
   _MrJake_:
     groups:
     - helper
+  xzenocide:
+    groups:
+    - hleb
+    - default
+  Grimp:
+    groups:
+    - shleb
+    - default
+  swagMCswag:
+    groups:
+    - shleb
+    - default
 groups:
 # Группа по-умолчанию
   default:
@@ -514,4 +526,4 @@ groups:
     prefix: "&cГлава ордена &aхлебушков"
 #
   shleb:
-    prefix: "&eСвятой &aхлебушек
+    prefix: "&eСвятой &aхлебушек"
