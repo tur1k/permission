@@ -12,13 +12,13 @@ users:
       essentials.exp.set.others: true
       essentials.exp.give: true
       essentials.exp.give.others: true
-  0000001:
+  _000001:
     groups:
     - root
-  0000002:
+  _000002:
     groups:
     - helper
-  0000003:
+  _000003:
     groups:
     - admin
 groups:
