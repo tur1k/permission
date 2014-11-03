@@ -17,7 +17,7 @@ users:
     - root
   _000002:
     groups:
-    - helper
+    - admin
   _000003:
     groups:
     - admin
@@ -234,6 +234,8 @@ groups:
       essentials.speed.walk: true
       essentials.unlimited: true
       essentials.enchantments.*: true
+      essentials.ban.offline: true
+      essentials.mute.offline: true
     inheritance:
     - moder
 # 
@@ -251,8 +253,6 @@ groups:
       essentials.god.pvp: true
       essentials.invsee.preventmodify: true
       essentials.kickall: true
-      essentials.ban.offline: true
-      essentials.mute.offline: true
       essentials.socialspy.others: true
       essentials.signs.create.custom: true
       essentials.signs.create.balance: true
