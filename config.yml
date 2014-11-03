@@ -1,17 +1,5 @@
 format: "[&6%prefix&r] &3%name&7:&r %message"
 users:
-  mete0:
-    groups:
-    - root
-    - libsdisguises
-    permissions:
-      essentials.silentjoin.vanish: true
-      essentials.speed.bypass: true
-      essentials.eco: true
-      essentials.exp.set: true
-      essentials.exp.set.others: true
-      essentials.exp.give: true
-      essentials.exp.give.others: true
   _000001:
     groups:
     - root
