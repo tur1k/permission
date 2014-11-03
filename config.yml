@@ -15,6 +15,12 @@ users:
   0000001:
     groups:
     - root
+  0000002:
+    groups:
+    - helper
+  0000003:
+    groups:
+    - admin
 groups:
 # Группа по-умолчанию
   default:
