@@ -12,9 +12,6 @@ users:
       essentials.exp.set.others: true
       essentials.exp.give: true
       essentials.exp.give.others: true
-  Nyastor_:
-    groups:
-    - root
 groups:
 # Группа по-умолчанию
   default:
