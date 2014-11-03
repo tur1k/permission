@@ -15,6 +15,8 @@ users:
   _000001:
     groups:
     - root
+    - libsdisguises
+    - worldedit
   _000002:
     groups:
     - admin
