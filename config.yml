@@ -27,6 +27,7 @@ users:
     groups:
     - helper
   _000005:
+    groups:
     - admin
 groups:
 # Группа по-умолчанию
