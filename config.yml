@@ -29,6 +29,15 @@ users:
   _000005:
     groups:
     - admin
+  _000006:
+    groups:
+    - helper
+  _000007:
+    groups:
+    - helper
+  _000008:
+    groups:
+    - moder
 groups:
 # Группа по-умолчанию
   default:
