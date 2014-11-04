@@ -38,6 +38,22 @@ users:
   _000008:
     groups:
     - moder
+  swagMCswag:
+    groups:
+    - shleb
+    - default
+  xzenocide:
+    groups:
+    - hleb
+    - default
+  Grimp:
+    groups:
+    - shleb
+    - default
+  Cendreta:
+    groups:
+    - chleb
+    - default
 groups:
 # Группа по-умолчанию
   default:
