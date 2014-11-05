@@ -38,6 +38,12 @@ users:
   _000008:
     groups:
     - moder
+  _000009:
+    groups:
+    - helper
+  _000010:
+    groups:
+    - helper
   swagMCswag:
     groups:
     - shleb
