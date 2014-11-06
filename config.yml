@@ -16,13 +16,14 @@ users:
     groups:
     - root
     - libsdisguises
-    - worldedit
   _000002:
     groups:
     - admin
+    - worldedit
   _000003:
     groups:
     - admin
+    - worldedit
   _000004:
     groups:
     - helper
