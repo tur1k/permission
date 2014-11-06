@@ -30,6 +30,7 @@ users:
   _000005:
     groups:
     - admin
+    - worldedit
   _000006:
     groups:
     - helper
