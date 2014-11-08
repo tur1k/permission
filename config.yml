@@ -40,6 +40,7 @@ users:
   _000008:
     groups:
     - moder
+    - worldedit
   _000009:
     groups:
     - helper
