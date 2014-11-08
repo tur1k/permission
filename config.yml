@@ -16,6 +16,14 @@ users:
     groups:
     - root
     - libsdisguises
+    permissions:
+      bukkit.command.kick
+      bukkit.command.ban.player
+      bukkit.command.ban.list
+      bukkit.command.unban.player
+      bukkit.command.ban.ip
+      bukkit.command.unban.ip
+      bukkit.command.teleport
   _000002:
     groups:
     - admin
