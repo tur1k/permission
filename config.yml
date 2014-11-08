@@ -50,6 +50,7 @@ users:
   _000011:
     groups:
     - root
+    - libsdisguises
   swagMCswag:
     groups:
     - shleb
@@ -197,6 +198,8 @@ groups:
       essentials.ext: true
       essentials.item: true
       essentials.speed: true
+      essentials.ban: true
+      essentials.banip: true
     inheritance:
     - helper
 #
@@ -212,9 +215,7 @@ groups:
       essentials.signs.protection.override: true
       essentials.speed.fly: true
       essentials.ban.exempt: true
-      essentials.banip: true
       essentials.unbanip: true
-      essentials.ban: true
       essentials.unban: true
       essentials.chat.url: true
       essentials.broadcast: true
