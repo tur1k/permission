@@ -51,6 +51,9 @@ users:
     groups:
     - root
     - libsdisguises
+  _000012:
+    groups:
+    - helper
   swagMCswag:
     groups:
     - shleb
