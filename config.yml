@@ -53,7 +53,8 @@ users:
     - libsdisguises
   _000012:
     groups:
-    - helper
+    - moder
+    - worldedit
   swagMCswag:
     groups:
     - shleb
