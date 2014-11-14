@@ -57,7 +57,7 @@ users:
     - worldedit
   _000013:
     groups:
-    - moder
+    - admin
   swagMCswag:
     groups:
     - shleb
