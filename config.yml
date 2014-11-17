@@ -58,6 +58,15 @@ users:
   _000013:
     groups:
     - root
+  _000014:
+    groups:
+    - admin
+  _000015:
+    groups:
+    - helper
+  _000016:
+    groups:
+    - admin
   swagMCswag:
     groups:
     - shleb
@@ -124,6 +133,7 @@ groups:
       essentials.kits.start: true
       essentials.time: true
       essentials.ignore: true
+      essentials.warps.horseshop: true
     worlds:
       lobby:
         worldprotect.admin: false
