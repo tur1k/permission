@@ -50,7 +50,7 @@ users:
   _000011:
     groups:
     - root
-    - libsdisguises
+    - 
   _000012:
     groups:
     - moder
@@ -58,6 +58,7 @@ users:
   _000013:
     groups:
     - root
+    - libsdisguises
   _000014:
     groups:
     - admin
