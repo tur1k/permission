@@ -68,6 +68,9 @@ users:
   _000016:
     groups:
     - admin
+  _000017:
+    groups:
+    - helper
   swagMCswag:
     groups:
     - shleb
@@ -135,6 +138,7 @@ groups:
       essentials.time: true
       essentials.ignore: true
       essentials.warps.horseshop: true
+      essentials.warps.obmennik: true
     worlds:
       lobby:
         worldprotect.admin: false
