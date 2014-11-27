@@ -50,7 +50,6 @@ users:
   _000011:
     groups:
     - root
-    - 
   _000012:
     groups:
     - moder
