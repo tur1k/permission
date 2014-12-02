@@ -16,7 +16,7 @@ users:
     groups:
     - root
     - libsdisguises
-  _000002:
+  narciss:
     groups:
     - admin
     - worldedit
@@ -37,7 +37,7 @@ users:
   _000007:
     groups:
     - helper
-  _000008:
+  Silird:
     groups:
     - moder
     - worldedit
