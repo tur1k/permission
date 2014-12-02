@@ -44,9 +44,6 @@ users:
   LittleFox:
     groups:
     - helper
-  WooW:
-    groups:
-    - helper
   DsaaaaaaaASDD:
     groups:
     - root
