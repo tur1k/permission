@@ -58,13 +58,13 @@ users:
     groups:
     - root
     - libsdisguises
-  _000014:
+  Mephisto_Tersis:
     groups:
     - admin
   _000015:
     groups:
     - helper
-  _000016:
+  Faust_Morrowizn:
     groups:
     - admin
   RUSSELL:
