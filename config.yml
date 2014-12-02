@@ -20,7 +20,7 @@ users:
     groups:
     - admin
     - worldedit
-  _000003:
+  Minner:
     groups:
     - admin
     - worldedit
@@ -54,7 +54,7 @@ users:
     groups:
     - moder
     - worldedit
-  _000013:
+  tur1k_:
     groups:
     - root
     - libsdisguises
