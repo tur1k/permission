@@ -43,6 +43,7 @@ users:
     - worldedit
   LittleFox:
     groups:
+    - helper
   ahzaza353:
     groups:
     - moder
