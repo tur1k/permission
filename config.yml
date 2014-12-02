@@ -20,7 +20,7 @@ users:
     groups:
     - admin
     - worldedit
-  _000003:
+  Minner:
     groups:
     - admin
     - worldedit
@@ -41,7 +41,7 @@ users:
     groups:
     - moder
     - worldedit
-  _000009:
+  LittleFox:
     groups:
     - helper
   _000010:
@@ -54,7 +54,7 @@ users:
     groups:
     - moder
     - worldedit
-  _000013:
+  tur1k_:
     groups:
     - root
     - libsdisguises
@@ -67,7 +67,7 @@ users:
   _000016:
     groups:
     - admin
-  _000017:
+  RUSSELL:
     groups:
     - helper
   swagMCswag:
