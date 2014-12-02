@@ -12,7 +12,7 @@ users:
       essentials.exp.set.others: true
       essentials.exp.give: true
       essentials.exp.give.others: true
-  _000001:
+   Nyastor_:
     groups:
     - root
     - libsdisguises
@@ -24,17 +24,17 @@ users:
     groups:
     - admin
     - worldedit
-  _000004:
+  Spam_Dex:
     groups:
     - helper
-  _000005:
+  EnderDragon165:
     groups:
     - admin
     - worldedit
-  _000006:
+  Silvano:
     groups:
     - helper
-  _000007:
+  Kasabian:
     groups:
     - helper
   Silird:
@@ -44,13 +44,13 @@ users:
   LittleFox:
     groups:
     - helper
-  _000010:
+  WooW:
     groups:
     - helper
-  _000011:
+  DsaaaaaaaASDD:
     groups:
     - root
-  _000012:
+  ahzaza353:
     groups:
     - moder
     - worldedit
