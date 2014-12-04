@@ -64,22 +64,9 @@ users:
   RUSSELL:
     groups:
     - helper
-  swagMCswag:
+  Maironaur:
     groups:
-    - shleb
-    - default
-  xzenocide:
-    groups:
-    - hleb
-    - default
-  Grimp:
-    groups:
-    - shleb
-    - default
-  Cendreta:
-    groups:
-    - chleb
-    - default
+    - builder
 groups:
 # Группа по-умолчанию
   default:
