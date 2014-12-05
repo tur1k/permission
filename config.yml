@@ -503,8 +503,8 @@ groups:
 #
   chleb:
     prefix: "&eЦарица &aхлебушка"
-#
-  dev:
+# development
+  builder:
     prefix: "dev"
     inheritance:
     - root
