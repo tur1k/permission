@@ -67,6 +67,9 @@ users:
   Maironaur:
     groups:
     - builder
+  ToyFon:
+    groups:
+    - creative
 groups:
 # Группа по-умолчанию
   default:
