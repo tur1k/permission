@@ -27,6 +27,7 @@ users:
   Spam_Dex:
     groups:
     - helper
+    - creative
   EnderDragon165:
     groups:
     - admin
@@ -69,7 +70,7 @@ users:
     - builder
   ToyFon:
     groups:
-    - helper
+    - creative
 groups:
 # Группа по-умолчанию
   default:
@@ -497,6 +498,8 @@ groups:
     prefix: "Креатив"
     permissions:
       essentials.gamemode: true
+    inheritance:
+    - default
 #
   hleb:
     prefix: "&cГлава ордена &aхлебушков"
