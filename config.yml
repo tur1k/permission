@@ -2,7 +2,7 @@ format: "[&6%prefix&r] &3%name&7:&r %message"
 users:
   mete0:
     groups:
-    - dev
+    - root
     - libsdisguises
     permissions:
       essentials.silentjoin.vanish: true
