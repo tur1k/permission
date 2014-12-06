@@ -71,6 +71,10 @@ users:
   ToyFon:
     groups:
     - creative
+  WooW:
+    groups:
+    - helper
+    - creative
 groups:
 # Группа по-умолчанию
   default:
