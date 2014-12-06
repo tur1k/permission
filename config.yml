@@ -504,7 +504,7 @@ groups:
   chleb:
     prefix: "&eЦарица &aхлебушка"
 # development
-  builder:
+  dev:
     prefix: "dev"
     inheritance:
     - root
