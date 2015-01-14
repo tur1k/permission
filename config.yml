@@ -155,11 +155,14 @@ groups:
       essentials.nick.color: true
       essentials.nick.format: true
       essentials.nick.magic: true
-      essentials.kick: true
-      essentials.mute: true
-      essentials.mute.notify: true
-      essentials.kick.notify: true
-      essentials.ban.notify: true
+      bessentials.kick.set: true
+      bessentials.kick.notify: true
+      bessentials.mute.set: true
+      bessentials.mute.notify: true
+      bessentials.mute.pardon: true
+      bessentials.ban.set: true
+      bessentials.ban.notify: true
+      bessentials.ban.pardon: true
     inheritance:
     - default
 #
@@ -194,10 +197,6 @@ groups:
       essentials.enderchest: true
       essentials.enderchest.others: true
       essentials.invsee: true
-      essentials.kick: true
-      essentials.kick.notify: true
-      essentials.mute: true
-      essentials.mute.notify: true
       essentials.vanish: true
       essentials.vanish.effect: true
       essentials.seen: true
@@ -208,14 +207,18 @@ groups:
       essentials.ext: true
       essentials.item: true
       essentials.speed: true
-      essentials.ban: true
-      essentials.banip: true
+      bessentials.ban.ip: true
     inheritance:
     - helper
 #
   admin:
     prefix: "&cАдмин"
     permissions:
+      bessentials.ban.immunity: true
+      bessentials.ban.unlimited: true
+      bessentials.mute.immunity: true
+      bessentials.mute.unlimited: true
+      bessentials.kick.immunity: true
       nocheatplus.bypass: true
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
@@ -224,9 +227,6 @@ groups:
       essentials.signs.color: true
       essentials.signs.protection.override: true
       essentials.speed.fly: true
-      essentials.ban.exempt: true
-      essentials.unbanip: true
-      essentials.unban: true
       essentials.chat.url: true
       essentials.broadcast: true
       essentials.fly.others: true
@@ -252,13 +252,11 @@ groups:
       essentials.antioch: true
       essentials.enderchest.modify: true
       essentials.invsee.modify: true
-      essentials.kick.exempt: true
       essentials.lightning: true
       essentials.lightning.others: true
       essentials.burn: true
       essentials.killall: true
       essentials.remove: true
-      essentials.mute.exempt: true
       essentials.vanish.see: true
       essentials.vanish.interact: true
       essentials.vanish.others: true
@@ -290,8 +288,6 @@ groups:
       essentials.speed.walk: true
       essentials.unlimited: true
       essentials.enchantments.*: true
-      essentials.ban.offline: true
-      essentials.mute.offline: true
     inheritance:
     - moder
 # 
@@ -308,7 +304,6 @@ groups:
       essentials.butcher: true
       essentials.god.pvp: true
       essentials.invsee.preventmodify: true
-      essentials.kickall: true
       essentials.socialspy.others: true
       essentials.signs.create.custom: true
       essentials.signs.create.balance: true
