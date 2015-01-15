@@ -294,6 +294,7 @@ groups:
   root:
     prefix: "&4root"
     permissions:
+      spigot.commandblock: true
       bukkit.command.gamerule: true
       worldedit.limit: true
       worldedit.global-mask: true
