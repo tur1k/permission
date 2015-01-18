@@ -4,6 +4,7 @@ users:
     groups:
     - root
     - libsdisguises
+    - lobby
     permissions:
       essentials.silentjoin.vanish: true
       essentials.speed.bypass: true
@@ -53,6 +54,7 @@ users:
     groups:
     - root
     - libsdisguises
+    - lobby
   Mephisto_Tersis:
     groups:
     - admin
@@ -68,6 +70,7 @@ users:
   Maironaur:
     groups:
     - builder
+    - lobby
   ToyFon:
     groups:
     - creative
@@ -328,15 +331,16 @@ groups:
       essentials.signs.break.custom: true
       essentials.weather: true
       essentials.gamemode.others: true
-    worlds:
-      lobby:
-        worldedit.wand: true
-        bukkit.command.gamemode: true
-        spawn.set: true
     inheritance:
     - admin
     - plugman
     - worldedit
+# access to lobby
+  lobby:
+    worlds:
+      lobby:
+        worldedit.wand: true
+        bukkit.command.gamemode: true
 #
   vip:
     permissions:
