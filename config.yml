@@ -17,6 +17,7 @@ users:
     groups:
     - root
     - libsdisguises
+    - lobby
   narciss:
     groups:
     - admin
