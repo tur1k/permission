@@ -344,6 +344,8 @@ groups:
         bukkit.command.gamemode: true
         minecraft.command.gamemode: true
         worldprotect.admin: true
+        bukkit.command.teleport: true
+        bukkit.command.weather: true
 #
   vip:
     permissions:
