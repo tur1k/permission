@@ -114,7 +114,6 @@ groups:
       essentials.balance: true
       essentials.mail: false
       essentials.help: true
-      essentials.spawn: true
       essentials.home: true
       essentials.home.bed: true
       essentials.sethome: true
