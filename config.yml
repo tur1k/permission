@@ -132,7 +132,6 @@ groups:
       essentials.warps.obmennik: true
     worlds:
       lobby:
-        worldprotect.admin: false
         worldedit.wand: false
 #
   helper:
@@ -213,6 +212,9 @@ groups:
       bessentials.ban.ip: true
     inheritance:
     - helper
+    worlds:
+      lobby:
+        worldprotect.admin: false
 #
   admin:
     prefix: "&cАдмин"
