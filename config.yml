@@ -199,6 +199,7 @@ groups:
       essentials.item: true
       essentials.speed: true
       bessentials.ban.ip: true
+      essentials.give: true
     inheritance:
     - helper
     worlds:
