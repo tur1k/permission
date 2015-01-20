@@ -171,7 +171,6 @@ groups:
       essentials.hat: true
       essentials.gamemode: true
       essentials.kill: true
-      essentials.spawn.others: true
       essentials.home.others: true
       essentials.tp.others: true
       essentials.tpaall: true
@@ -294,7 +293,7 @@ groups:
       worldedit.limit: true
       worldedit.global-mask: true
       worldedit.scripting.execute: true
-      essentials.setspawn: true
+      spawn.set: true
       essentials.joinfullserver: true
       essentials.essentials: true
       essentials.butcher: true
