@@ -293,7 +293,7 @@ groups:
     prefix: "&4root"
     permissions:
       spigot.commandblock: true
-      bukkit.command.gamerule: true
+      minecraft.command.gamerule: true
       worldedit.limit: true
       worldedit.global-mask: true
       worldedit.scripting.execute: true
@@ -493,7 +493,7 @@ groups:
       worldedit.thaw: true
       worldedit.green: true
       worldedit.extinguish: true
-      worldedit.remove: true
+      worldedit.remove: truebukkit.command.gamerule
 #
   creative:
     prefix: "Креатив"
