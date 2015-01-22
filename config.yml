@@ -87,7 +87,7 @@ groups:
   default:
     prefix: "Игрок"
     permissions:
-      bukkit.command.me: false
+      minecraft.command.me: false
       worldedit.selection.pos: true
       worldedit.selection.hpos: true
       worldedit.wand: true
