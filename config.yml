@@ -493,7 +493,7 @@ groups:
       worldedit.thaw: true
       worldedit.green: true
       worldedit.extinguish: true
-      worldedit.remove: truebukkit.command.gamerule
+      worldedit.remove: true
 #
   creative:
     prefix: "Креатив"
