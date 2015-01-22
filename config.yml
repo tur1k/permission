@@ -335,7 +335,6 @@ groups:
     worlds:
       lobby:
         worldedit.wand: true
-        bukkit.command.gamemode: true
         minecraft.command.gamemode: true
         worldprotect.admin: true
 #
