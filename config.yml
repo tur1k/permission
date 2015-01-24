@@ -344,7 +344,7 @@ groups:
     - default
 # Группа строитель  
   builder:
-    prefix: "Архитектор"
+    prefix: "Architekt"
     inheritance:
     - admin
     - worldedit
