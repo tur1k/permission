@@ -497,13 +497,5 @@ groups:
       essentials.gamemode: true
     inheritance:
     - default
-#
-  hleb:
-    prefix: "&cГлава ордена &aхлебушков"
-#
-  shleb:
-    prefix: "&eСвятой &aхлебушек"
-#
-  chleb:
-    prefix: "&eЦарица &aхлебушка"
+
 
