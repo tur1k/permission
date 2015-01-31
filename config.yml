@@ -78,9 +78,6 @@ users:
     groups:
     - helper
     - creative
-  Witas:
-    groups:
-    - helper
 groups:
 # Группа по-умолчанию
   default:
