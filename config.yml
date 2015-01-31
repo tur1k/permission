@@ -21,6 +21,7 @@ users:
   DsaaaaaaaASDD:
     groups:
     - admin
+    - worldedit
   narciss:
     groups:
     - admin
