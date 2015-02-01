@@ -500,5 +500,5 @@ groups:
     inheritance:
     - default
   dev:
-    prefix: "&0&lDEV"
+    prefix: "&e&lDEV"
 
