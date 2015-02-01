@@ -160,6 +160,7 @@ groups:
       bessentials.ban.set: true
       bessentials.ban.notify: true
       bessentials.ban.pardon: true
+      spawn.other: true
     inheritance:
     - default
 #
