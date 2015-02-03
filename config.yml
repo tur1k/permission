@@ -80,6 +80,9 @@ users:
     groups:
     - helper
     - creative
+  red:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
