@@ -20,7 +20,7 @@ users:
     - libsdisguises
     - lobby
     permissions:
-      essentials.summon: true
+      spigot.summon: true
   DsaaaaaaaASDD:
     groups:
     - admin
