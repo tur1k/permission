@@ -19,6 +19,8 @@ users:
     - root
     - libsdisguises
     - lobby
+    permissions:
+      essentials.summon: true
   DsaaaaaaaASDD:
     groups:
     - admin
