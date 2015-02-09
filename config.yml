@@ -32,6 +32,7 @@ users:
     - worldedit
   Minner:
     groups:
+    - helper
     - admin
     - worldedit
   Spam_Dex:
@@ -57,6 +58,7 @@ users:
     - worldedit
   tur1k_:
     groups:
+    - helper
     - root
     - libsdisguises
     - lobby
