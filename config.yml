@@ -30,7 +30,6 @@ users:
     - worldedit
   Minner:
     groups:
-    - helper
     - admin
     - worldedit
   Spam_Dex:
