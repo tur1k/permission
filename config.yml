@@ -133,7 +133,7 @@ groups:
         worldedit.wand: false
 #
   helper:
-    prefix: "&aПомощник"
+    prefix: "&2Помощник"
     permissions:
       worldprotect.unlimited: true
       essentials.exp.others: true
@@ -211,7 +211,7 @@ groups:
         worldprotect.admin: false
 #
   admin:
-    prefix: "&cАдмин"
+    prefix: "&4Админ"
     permissions:
       bessentials.ban.immunity: true
       bessentials.ban.unlimited: true
