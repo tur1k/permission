@@ -81,9 +81,6 @@ users:
     groups:
     - helper
     - creative
-  red:
-    groups:
-    - helper
   Zemanter:
     groups:
     - helper
