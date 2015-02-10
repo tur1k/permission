@@ -19,8 +19,6 @@ users:
     - root
     - libsdisguises
     - lobby
-    permissions:
-      spigot.summon: true
   DsaaaaaaaASDD:
     groups:
     - admin
