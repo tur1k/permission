@@ -52,7 +52,6 @@ users:
     - helper
   tur1k_:
     groups:
-    - helper
     - root
     - libsdisguises
     - lobby
