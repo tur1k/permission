@@ -52,10 +52,6 @@ users:
   LittleFox:
     groups:
     - helper
-  ahzaza353:
-    groups:
-    - moder
-    - worldedit
   tur1k_:
     groups:
     - helper
@@ -64,13 +60,13 @@ users:
     - lobby
   Mephisto_Tersis:
     groups:
-    - admin
+    - moder
   proninyaroslav:
     groups:
     - helper
   Faust_Morrowizn:
     groups:
-    - admin
+    - moder
   RUSSELL:
     groups:
     - helper
