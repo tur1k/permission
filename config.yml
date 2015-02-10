@@ -81,6 +81,9 @@ users:
   Zemanter:
     groups:
     - helper
+  red:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
