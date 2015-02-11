@@ -161,9 +161,6 @@ groups:
       bessentials.mute.set: true
       bessentials.mute.notify: true
       bessentials.mute.pardon: true
-      bessentials.ban.set: true
-      bessentials.ban.notify: true
-      bessentials.ban.pardon: true
       spawn.other: true
     inheritance:
     - default
