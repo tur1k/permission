@@ -77,9 +77,6 @@ users:
     groups:
     - helper
     - creative
-  Zemanter:
-    groups:
-    - helper
   red:
     groups:
     - helper
