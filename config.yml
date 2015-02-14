@@ -91,7 +91,6 @@ groups:
       worldprotect.flag.pvp: true
       worldprotect.flag.piston: true
       worldprotect.flag.vehicleNaturalDestroy: true
-      worldprotect.flag.bukkitEmptyLava: true
       minecraft.command.me: false
       worldedit.selection.pos: true
       worldedit.selection.hpos: true
@@ -188,6 +187,7 @@ groups:
       worldprotect.flag.bukkitEmptyWater: true
       worldprotect.flag.portalCreation: true
       worldprotect.flag.hungry: true
+      worldprotect.flag.bukkitEmptyLava: true
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
