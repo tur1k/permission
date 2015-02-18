@@ -44,7 +44,6 @@ users:
     - helper
   Silird:
     groups:
-    - noadmin
     - moder
     - worldedit
   LittleFox:
@@ -536,5 +535,3 @@ groups:
     prefix: "&2Хелпер"
   pedo:
     prefix: "Педо"
-  noadmin:
-    prefix: "&4Админ, но вообще модер"
