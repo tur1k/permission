@@ -43,6 +43,7 @@ users:
     groups:
     - helper
   Silird:
+    prefix: "&4Админ, но вообще модер"
     groups:
     - moder
     - worldedit
