@@ -87,6 +87,10 @@ users:
     groups:
     - nohelper
     - default
+  sallad1n:
+    groups:
+    - pedo
+    - default
 groups:
 # Группа по-умолчанию
   default:
@@ -529,4 +533,5 @@ groups:
     prefix: "&e&lDEV"
   nohelper:
     prefix: "&2Хелпер"
-
+  pedo:
+    prefix: "Педо"
