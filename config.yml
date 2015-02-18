@@ -83,6 +83,9 @@ users:
   red:
     groups:
     - helper
+  Isabeltpl:
+    groups:
+    - nohelper
 groups:
 # Группа по-умолчанию
   default:
@@ -523,4 +526,6 @@ groups:
     - default
   dev:
     prefix: "&e&lDEV"
+  nohelper:
+    prefix: "&2Хелпер"
 
