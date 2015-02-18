@@ -86,6 +86,7 @@ users:
   Isabeltpl:
     groups:
     - nohelper
+    - default
 groups:
 # Группа по-умолчанию
   default:
