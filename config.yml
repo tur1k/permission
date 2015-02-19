@@ -44,6 +44,7 @@ users:
     - helper
   Silird:
     groups:
+    - pedo
     - moder
     - worldedit
   LittleFox:
@@ -528,4 +529,4 @@ groups:
   dev:
     prefix: "&e&lDEV"
   pedo:
-    prefix: "Педо"
+    prefix: "&4&lОшибка"
