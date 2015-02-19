@@ -529,4 +529,4 @@ groups:
   dev:
     prefix: "&e&lDEV"
   pedo:
-    prefix: "&4&lОшибка"
+    prefix: "&2&lУспех"
