@@ -83,10 +83,6 @@ users:
   red:
     groups:
     - helper
-  Isabeltpl:
-    groups:
-    - nohelper
-    - default
   sallad1n:
     groups:
     - pedo
@@ -531,7 +527,5 @@ groups:
     - default
   dev:
     prefix: "&e&lDEV"
-  nohelper:
-    prefix: "&2Хелпер"
   pedo:
     prefix: "Педо"
