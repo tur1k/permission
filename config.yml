@@ -21,7 +21,7 @@ users:
     - lobby
   DsaaaaaaaASDD:
     groups:
-    - root
+    - admin
     - worldedit
     - libsdisguises
   narciss:
