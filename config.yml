@@ -92,6 +92,9 @@ groups:
   default:
     prefix: "Игрок"
     permissions:
+      worldprotect.region.world: true
+      worldprotect.region.nether: true
+      worldprotect.region.the_end: false
       worldprotect.flag.pvp: true
       worldprotect.flag.piston: true
       worldprotect.flag.vehicleNaturalDestroy: true
