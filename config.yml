@@ -365,6 +365,7 @@ groups:
         worldedit.wand: true
         minecraft.command.gamemode: true
         worldprotect.admin: true
+        worldprotect.region.lobby: true
 #
   vip:
     permissions:
