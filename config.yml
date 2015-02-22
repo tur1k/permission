@@ -179,6 +179,7 @@ groups:
     prefix: "&1Модератор"
     permissions:
       worldprotect.admin: true
+      worldprotect.region.the_end: true
       worldprotect.flag.build: true
       worldprotect.flag.use: true
       worldprotect.flag.damage: true
