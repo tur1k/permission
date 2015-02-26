@@ -44,7 +44,7 @@ users:
     - helper
   Silird:
     groups:
-    - root
+    - moder
     - worldedit
   LittleFox:
     groups:
