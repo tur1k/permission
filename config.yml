@@ -26,7 +26,7 @@ users:
     - libsdisguises
   narciss:
     groups:
-    - admin
+    - vip
     - worldedit
   Minner:
     groups:
@@ -44,14 +44,14 @@ users:
     - helper
   Silird:
     groups:
-    - moder
+    - vip
     - worldedit
   LittleFox:
     groups:
     - helper
   tur1k_:
     groups:
-    - root
+    - vip
     - libsdisguises
     - lobby
   Mephisto_Tersis:
@@ -370,6 +370,7 @@ groups:
         worldprotect.region.lobby: true
 #
   vip:
+    prefix: "&5VIP"
     permissions:
       essentials.fly: true
       essentials.fly.safelogin: true
