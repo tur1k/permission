@@ -306,6 +306,7 @@ groups:
       essentials.itemspawn.meta-book: true
       essentials.itemspawn.meta-head: true
       essentials.itemspawn.meta-firework: true
+      essentials.itemspawn.meta-name: true
       essentials.more: true
       essentials.repair: true
       essentials.repair.armor: true
@@ -327,7 +328,6 @@ groups:
       worldedit.global-mask: true
       worldedit.scripting.execute: true
       spawn.set: true
-      essentials.itemspawn.meta-name: true
       essentials.joinfullserver: true
       essentials.essentials: true
       essentials.butcher: true
