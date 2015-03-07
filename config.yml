@@ -51,7 +51,7 @@ users:
     - helper
   tur1k_:
     groups:
-    - vip
+    - root
     - libsdisguises
     - lobby
   Mephisto_Tersis:
@@ -170,6 +170,7 @@ groups:
       bessentials.kick.notify: true
       bessentials.mute.set: true
       bessentials.mute.notify: true
+      bessentials.ban.notify: true
       bessentials.mute.pardon: true
       spawn.other: true
     inheritance:
@@ -230,7 +231,6 @@ groups:
       bessentials.ban.ip: true
       essentials.give: true
       bessentials.ban.set: true
-      bessentials.ban.notify: true
       bessentials.ban.pardon: true
     inheritance:
     - helper
