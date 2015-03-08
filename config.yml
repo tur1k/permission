@@ -196,6 +196,7 @@ groups:
       worldprotect.flag.portalCreation: true
       worldprotect.flag.hungry: true
       worldprotect.flag.bukkitEmptyLava: true
+      essentials.vanish.interact: false
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
