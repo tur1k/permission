@@ -179,6 +179,7 @@ groups:
     permissions:
       worldprotect.admin: true
       worldprotect.region.the_end: true
+      worldprotect.region.world_nether: true
       worldprotect.flag.build: true
       worldprotect.flag.use: true
       worldprotect.flag.damage: true
