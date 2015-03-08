@@ -196,7 +196,6 @@ groups:
       worldprotect.flag.portalCreation: true
       worldprotect.flag.hungry: true
       worldprotect.flag.bukkitEmptyLava: true
-      essentials.vanish.interact: false
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
@@ -328,7 +327,6 @@ groups:
       worldedit.global-mask: true
       worldedit.scripting.execute: true
       spawn.set: true
-      essentials.vanish.interact: true
       essentials.joinfullserver: true
       essentials.essentials: true
       essentials.butcher: true
