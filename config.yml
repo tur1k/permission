@@ -28,6 +28,8 @@ users:
     groups:
     - admin
     - worldedit
+    permissions:
+      spigot.commandblock: true
   Minner:
     groups:
     - admin
