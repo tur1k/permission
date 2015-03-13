@@ -45,8 +45,7 @@ users:
     - helper
   Silird:
     groups:
-    - vip
-    - moder
+    - moderplus
     - worldedit
   LittleFox:
     groups:
@@ -370,18 +369,13 @@ groups:
         worldprotect.admin: true
         worldprotect.region.lobby: true
 #
-  vip:
-    prefix: "&5VIP"
+  moderplus:
+    prefix: "&dМодер+"
     permissions:
       essentials.fly: true
       essentials.fly.safelogin: true
       essentials.kits.vip_daily: true
       essentials.kits.vip_monthly: true
-      essentials.chat.url: true
-      essentials.msg.color: true
-      essentials.msg.magic: true
-      essentials.msg.format: true
-      essentials.msg.url: true
       essentials.list.hidden: true
       essentials.realname: true
       essentials.enderchest.modify: true
@@ -390,6 +384,16 @@ groups:
       essentials.vanish.interact: true
       essentials.vanish.others: true
       essentials.vanish.effect: false
+    inheritance:
+    - moder
+# 
+  vip:
+    prefix: "&5VIP"
+    permissions:
+      essentials.fly: true
+      essentials.fly.safelogin: true
+      essentials.kits.vip_daily: true
+      essentials.kits.vip_monthly: true
     inheritance:
     - default
 # Группа строитель  
