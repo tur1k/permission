@@ -28,8 +28,7 @@ users:
     groups:
     - admin
     - worldedit
-    permissions:
-      spigot.commandblock: true
+    - commandblock
   Minner:
     groups:
     - admin
@@ -533,6 +532,10 @@ groups:
       essentials.gamemode: true
     inheritance:
     - default
+#
+  commandblock:
+    permissions:
+      spigot.commandblock: true
   dev:
     prefix: "&e&lDEV"
   pedo:
