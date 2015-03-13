@@ -377,6 +377,19 @@ groups:
       essentials.fly.safelogin: true
       essentials.kits.vip_daily: true
       essentials.kits.vip_monthly: true
+      essentials.chat.url: true
+      essentials.msg.color: true
+      essentials.msg.magic: true
+      essentials.msg.format: true
+      essentials.msg.url: true
+      essentials.list.hidden: true
+      essentials.realname: true
+      essentials.enderchest.modify: true
+      essentials.invsee.modify: true
+      essentials.vanish.see: true
+      essentials.vanish.interact: true
+      essentials.vanish.others: true
+      essentials.vanish.effect: false
     inheritance:
     - default
 # Группа строитель  
@@ -531,19 +544,6 @@ groups:
     prefix: "Креатив"
     permissions:
       essentials.gamemode: true
-      essentials.chat.url: true
-      essentials.msg.color: true
-      essentials.msg.magic: true
-      essentials.msg.format: true
-      essentials.msg.url: true
-      essentials.list.hidden: true
-      essentials.realname: true
-      essentials.enderchest.modify: true
-      essentials.invsee.modify: true
-      essentials.vanish.see: true
-      essentials.vanish.interact: true
-      essentials.vanish.others: true
-      essentials.vanish.effect: false
     inheritance:
     - default
 #
