@@ -46,6 +46,7 @@ users:
   Silird:
     groups:
     - vip
+    - moder
     - worldedit
   LittleFox:
     groups:
