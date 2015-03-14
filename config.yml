@@ -218,7 +218,7 @@ groups:
         worldprotect.admin: false
 #
   moderplus:
-    prefix: "&bНемного выше модератора, но не админ"
+    prefix: "&bGame Master"
     permissions:
       worldprotect.flag.build: true
       worldprotect.flag.use: true
