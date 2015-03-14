@@ -180,22 +180,6 @@ groups:
     permissions:
       worldprotect.admin: true
       worldprotect.region.world_the_end: true
-      worldprotect.flag.build: true
-      worldprotect.flag.use: true
-      worldprotect.flag.damage: true
-      worldprotect.flag.teleport: true
-      worldprotect.flag.creatureSpawn: true
-      worldprotect.flag.entityBlockExplode: true
-      worldprotect.flag.command: true
-      worldprotect.flag.grow: true
-      worldprotect.flag.burn: true
-      worldprotect.flag.spread: true
-      worldprotect.flag.pva: true
-      worldprotect.flag.pve: true
-      worldprotect.flag.bukkitEmptyWater: true
-      worldprotect.flag.portalCreation: true
-      worldprotect.flag.hungry: true
-      worldprotect.flag.bukkitEmptyLava: true
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
@@ -240,6 +224,22 @@ groups:
   admin:
     prefix: "&4Админ"
     permissions:
+      worldprotect.flag.build: true
+      worldprotect.flag.use: true
+      worldprotect.flag.damage: true
+      worldprotect.flag.teleport: true
+      worldprotect.flag.creatureSpawn: true
+      worldprotect.flag.entityBlockExplode: true
+      worldprotect.flag.command: true
+      worldprotect.flag.grow: true
+      worldprotect.flag.burn: true
+      worldprotect.flag.spread: true
+      worldprotect.flag.pva: true
+      worldprotect.flag.pve: true
+      worldprotect.flag.bukkitEmptyWater: true
+      worldprotect.flag.portalCreation: true
+      worldprotect.flag.hungry: true
+      worldprotect.flag.bukkitEmptyLava: true
       bessentials.ban.immunity: true
       bessentials.ban.unlimited: true
       bessentials.mute.immunity: true
@@ -372,6 +372,22 @@ groups:
   moderplus:
     prefix: "&bМодер++"
     permissions:
+      worldprotect.flag.build: true
+      worldprotect.flag.use: true
+      worldprotect.flag.damage: true
+      worldprotect.flag.teleport: true
+      worldprotect.flag.creatureSpawn: true
+      worldprotect.flag.entityBlockExplode: true
+      worldprotect.flag.command: true
+      worldprotect.flag.grow: true
+      worldprotect.flag.burn: true
+      worldprotect.flag.spread: true
+      worldprotect.flag.pva: true
+      worldprotect.flag.pve: true
+      worldprotect.flag.bukkitEmptyWater: true
+      worldprotect.flag.portalCreation: true
+      worldprotect.flag.hungry: true
+      worldprotect.flag.bukkitEmptyLava: true
       nocheatplus.bypass: true
       essentials.heal.cooldown.bypass: true
       essentials.list.hidden: true
