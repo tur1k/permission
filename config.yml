@@ -212,7 +212,6 @@ groups:
       essentials.feed.others: true
       essentials.heal: true
       essentials.heal.others: true
-      essentials.heal.cooldown.bypass: true
       essentials.me: true
       essentials.motd: true
       essentials.kit.others: true
@@ -249,6 +248,7 @@ groups:
       nocheatplus.bypass: true
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
+      essentials.heal.cooldown.bypass: true
       essentials.kits.vip_daily: true
       essentials.kits.vip_monthly: true
       essentials.signs.color: true
@@ -372,10 +372,8 @@ groups:
   moderplus:
     prefix: "&bМодер++"
     permissions:
-      essentials.fly: true
-      essentials.fly.safelogin: true
-      essentials.kits.vip_daily: true
-      essentials.kits.vip_monthly: true
+      nocheatplus.bypass: true
+      essentials.heal.cooldown.bypass: true
       essentials.list.hidden: true
       essentials.realname: true
       essentials.enderchest.modify: true
