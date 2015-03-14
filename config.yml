@@ -212,7 +212,7 @@ groups:
       essentials.feed.others: true
       essentials.heal: true
       essentials.heal.others: true
-      essentilas.heal.cooldown.bypass: true
+      essentials.heal.cooldown.bypass: true
       essentials.me: true
       essentials.motd: true
       essentials.kit.others: true
@@ -370,7 +370,7 @@ groups:
         worldprotect.region.lobby: true
 #
   moderplus:
-    prefix: "&dМодер+"
+    prefix: "&bМодер++"
     permissions:
       essentials.fly: true
       essentials.fly.safelogin: true
