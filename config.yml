@@ -161,10 +161,6 @@ groups:
       essentials.back: true
       essentials.back.ondeath: true
       essentials.hat: true
-      essentials.nick: true
-      essentials.nick.color: true
-      essentials.nick.format: true
-      essentials.nick.magic: true
       bessentials.kick.set: true
       bessentials.kick.notify: true
       bessentials.mute.set: true
@@ -241,6 +237,10 @@ groups:
       worldprotect.flag.hungry: true
       worldprotect.flag.bukkitEmptyLava: true
       nocheatplus.bypass: true
+      essentials.nick: true
+      essentials.nick.color: true
+      essentials.nick.format: true
+      essentials.nick.magic: true
       essentials.heal.cooldown.bypass: true
       essentials.list.hidden: true
       essentials.realname: true
