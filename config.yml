@@ -254,6 +254,7 @@ groups:
   admin:
     prefix: "&4Админ"
     permissions:
+      mongoauth.account.create: true
       bessentials.ban.immunity: true
       bessentials.ban.unlimited: true
       bessentials.mute.immunity: true
