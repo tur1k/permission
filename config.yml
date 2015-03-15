@@ -40,9 +40,6 @@ users:
   Silvano:
     groups:
     - helper
-  Kasabian:
-    groups:
-    - helper
   Silird:
     groups:
     - moderplus
@@ -73,9 +70,6 @@ users:
     groups:
     - builder
     - lobby
-  ToyFon:
-    groups:
-    - creative
   WooW:
     groups:
     - helper
