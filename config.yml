@@ -57,7 +57,7 @@ users:
     - lobby
   Mephisto_Tersis:
     groups:
-    - moder
+    - admin
     - worldedit
   proninyaroslav:
     groups:
