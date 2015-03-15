@@ -58,6 +58,7 @@ users:
   Mephisto_Tersis:
     groups:
     - moder
+    - worldedit
   proninyaroslav:
     groups:
     - helper
