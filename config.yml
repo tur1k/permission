@@ -176,6 +176,7 @@ groups:
     permissions:
       worldprotect.admin: true
       worldprotect.region.world_the_end: true
+      essentials.sethome.multiple.unlimited: true
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
@@ -274,7 +275,6 @@ groups:
       essentials.god.others: true
       essentials.kill.exempt: true
       essentials.sethome.others: true
-      essentials.sethome.multiple.unlimited: true
       essentials.delhome.others: true
       essentials.setwarp: true
       essentials.delwarp: true
