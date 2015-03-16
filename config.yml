@@ -24,7 +24,7 @@ users:
     - admin
     - worldedit
     - libsdisguises
-  narcisstemp:
+  narciss:
     groups:
     - admin
     - worldedit
