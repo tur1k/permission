@@ -285,6 +285,7 @@ groups:
       essentials.msg.url: true
       essentials.kit.exemptdelay: true
       essentials.time.set: true
+      essentials.tptoggle: true
       essentials.antioch: true
       essentials.lightning: true
       essentials.lightning.others: true
@@ -357,6 +358,7 @@ groups:
       essentials.signs.break.kit: true
       essentials.signs.break.buy: true
       essentials.signs.break.custom: true
+      essentials.tptoggle.others: true
       essentials.weather: true
       essentials.gamemode.others: true
     inheritance:
