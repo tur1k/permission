@@ -44,6 +44,7 @@ users:
     groups:
     - moderplus
     - worldedit
+    - commandblock
   LittleFox:
     groups:
     - helper
