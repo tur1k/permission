@@ -86,8 +86,10 @@ users:
     - pedo
     - default
   blab1abla:
+    groups:
     - odmen
   Alisa_Tochka_Com:
+    groups:
     - odmen
 groups:
 # Группа по-умолчанию
