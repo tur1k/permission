@@ -85,6 +85,10 @@ users:
     groups:
     - pedo
     - default
+  blab1abla:
+    -odmen
+  Alisa_Tochka_Com:
+    -odmen
 groups:
 # Группа по-умолчанию
   default:
@@ -544,5 +548,7 @@ groups:
       spigot.commandblock: true
   dev:
     prefix: "&e&lDEV"
+  odmen:
+    prefix: "&сОдмен"
   pedo:
     prefix: "Педо"
