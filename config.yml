@@ -42,6 +42,7 @@ users:
     - helper
   Silird:
     groups:
+    - dev
     - root
   LittleFox:
     groups:
