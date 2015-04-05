@@ -62,6 +62,7 @@ users:
   Faust_Morrowizn:
     groups:
     - moder
+    - worldedit
   RUSSELL:
     groups:
     - helper
