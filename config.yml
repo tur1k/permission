@@ -41,8 +41,8 @@ users:
     - helper
   Silird:
     groups:
-    - libsdisguises
     - root
+    - libsdisguises
   LittleFox:
     groups:
     - helper
