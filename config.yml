@@ -525,3 +525,5 @@ groups:
     prefix: "&e&lDEV"
   pedo:
     prefix: "Педо"
+    inheritance:
+    - libsdisguises
