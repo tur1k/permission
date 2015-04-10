@@ -525,5 +525,8 @@ groups:
     prefix: "&e&lDEV"
   pedo:
     prefix: "Педо"
+    permissions:
+      essentials.tp: true
+      essentials.tp.position: true
     inheritance:
     - libsdisguises
