@@ -81,6 +81,9 @@ users:
   red:
     groups:
     - helper
+  1523132:
+    groups:
+    - helper
   sallad1n:
     groups:
     - pedo
