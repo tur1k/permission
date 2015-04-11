@@ -530,7 +530,7 @@ groups:
   dev:
     prefix: "&e&lDEV"
   pedo:
-    prefix: "&eПринцесса"
+    prefix: "&dПринцесса"
     permissions:
       essentials.tp: true
       essentials.tp.position: true
