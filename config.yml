@@ -534,5 +534,6 @@ groups:
     permissions:
       essentials.tp: true
       essentials.tp.position: true
+      essentials.gamemode: true
     inheritance:
     - libsdisguises
