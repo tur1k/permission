@@ -83,14 +83,11 @@ users:
     - helper
   1523132:
     groups:
+    - DEV
     - helper
   KnyzZ:
     groups:
     - helper
-  sallad1n:
-    groups:
-    - pedo
-    - default
 groups:
 # Группа по-умолчанию
   default:
@@ -529,11 +526,3 @@ groups:
       spigot.commandblock: true
   dev:
     prefix: "&e&lDEV"
-  pedo:
-    prefix: "&dПринцесса"
-    permissions:
-      essentials.tp: true
-      essentials.tp.position: true
-      essentials.gamemode: true
-    inheritance:
-    - libsdisguises
