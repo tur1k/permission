@@ -67,10 +67,6 @@ users:
   RUSSELL:
     groups:
     - helper
-  Maironaur:
-    groups:
-    - builder
-    - lobby
   WooW:
     groups:
     - helper
