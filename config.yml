@@ -320,7 +320,6 @@ groups:
   root:
     prefix: "&4root"
     permissions:
-      spigot.commandblock: true
       minecraft.command.gamerule: true
       worldedit.limit: true
       worldedit.global-mask: true
@@ -359,6 +358,7 @@ groups:
     - admin
     - plugman
     - worldedit
+    - commandblock
 # access to lobby
   lobby:
     worlds:
@@ -519,6 +519,6 @@ groups:
 #
   commandblock:
     permissions:
-      spigot.commandblock: true
+      commandblock.use: true
   dev:
     prefix: "&e&lDEV"
