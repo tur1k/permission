@@ -135,6 +135,8 @@ groups:
       essentials.time: true
       essentials.ignore: true
     worlds:
+      creative:
+        worldprotect.region.creative: true
       lobby:
         worldedit.wand: false
 #
