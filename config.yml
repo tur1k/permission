@@ -48,11 +48,6 @@ users:
     groups:
     - helper
     - creative
-  tur1k_:
-    groups:
-    - root
-    - libsdisguises
-    - lobby
   Mephisto_Tersis:
     groups:
     - admin
