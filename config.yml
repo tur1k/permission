@@ -14,11 +14,6 @@ users:
       essentials.exp.set.others: true
       essentials.exp.give: true
       essentials.exp.give.others: true
-  Nyastor_:
-    groups:
-    - root
-    - libsdisguises
-    - lobby
   DsaaaaaaaASDD:
     groups:
     - root
@@ -32,6 +27,7 @@ users:
     groups:
     - admin
     - worldedit
+    - commandblock
   Spam_Dex:
     groups:
     - helper
