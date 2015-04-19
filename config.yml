@@ -416,6 +416,7 @@ groups:
       worldedit.brush.smooth: true
       worldedit.brush.ex: true
       worldedit.brush.gravity: true
+      worldedit.brush.antigravity: true
       worldedit.chunk.info: true
       worldedit.chunk.list: true
       worldedit.chunk.delete: true
