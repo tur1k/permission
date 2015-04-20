@@ -28,10 +28,6 @@ users:
     - admin
     - worldedit
     - commandblock
-  Spam_Dex:
-    groups:
-    - helper
-    - creative
   Silvano:
     groups:
     - helper
@@ -48,20 +44,13 @@ users:
     groups:
     - admin
     - worldedit
-  proninyaroslav:
-    groups:
-    - helper
   Faust_Morrowizn:
     groups:
     - moder
     - worldedit
-  RUSSELL:
-    groups:
-    - helper
   WooW:
     groups:
     - helper
-    - creative
   Zemanter:
     groups:
     - helper
@@ -73,6 +62,9 @@ users:
     - DEV
     - helper
   KnyzZ:
+    groups:
+    - helper
+  Uncle_Sahsa:
     groups:
     - helper
 groups:
