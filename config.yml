@@ -183,6 +183,7 @@ groups:
       essentials.enderchest: true
       essentials.enderchest.others: true
       essentials.invsee: true
+      essentials.nick: true
       essentials.vanish: true
       essentials.vanish.effect: true
       essentials.near: true
@@ -221,7 +222,6 @@ groups:
       nocheatplus.bypass: true
       bessentials.ban.unlimited: true
       bessentials.mute.unlimited: true
-      essentials.nick: true
       essentials.nick.color: true
       essentials.nick.format: true
       essentials.nick.magic: true
