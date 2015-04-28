@@ -57,6 +57,10 @@ users:
   red:
     groups:
     - helper
+  1523132:
+    groups:
+    - DEV
+    - helper
   KnyzZ:
     groups:
     - helper
