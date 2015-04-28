@@ -67,6 +67,10 @@ users:
   Uncle_Sasha:
     groups:
     - helper
+  Grifer:
+    groups:
+    - DEV
+    - helper
 groups:
 # Группа по-умолчанию
   default:
