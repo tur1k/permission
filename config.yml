@@ -67,6 +67,9 @@ users:
   Uncle_Sasha:
     groups:
     - helper
+  BugyMan:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
