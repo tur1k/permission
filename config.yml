@@ -73,6 +73,7 @@ users:
   denistv:
     groups:
     - dev
+     - default
     permissions:
       essentials.gamemode: true
 groups:
