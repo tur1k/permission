@@ -70,6 +70,11 @@ users:
   BugyMan:
     groups:
     - helper
+  denistv:
+    groups:
+    - dev
+    permissions:
+      essentials.gamemode: true
 groups:
 # Группа по-умолчанию
   default:
