@@ -33,7 +33,7 @@ users:
     - helper
   Silird:
     groups:
-    - dev
+    - lobby
     - root
     - libsdisguises
   LittleFox:
