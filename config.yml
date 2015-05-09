@@ -74,6 +74,9 @@ users:
     groups:
     - dev
     - admin
+  rombiki:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
