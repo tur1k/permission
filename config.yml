@@ -72,7 +72,6 @@ users:
     - helper
   denistv:
     groups:
-    - dev
     - admin
     - commandblock
     - libsdisguises
