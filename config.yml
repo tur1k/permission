@@ -72,10 +72,10 @@ users:
     - helper
   denistv:
     groups:
+    - default
     - admin
     - commandblock
     - libsdisguises
-    - default
   rombiki:
     groups:
     - helper
