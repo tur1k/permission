@@ -75,6 +75,7 @@ users:
     - admin
     - commandblock
     - libsdisguises
+    - default
   rombiki:
     groups:
     - helper
