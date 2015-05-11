@@ -79,6 +79,9 @@ users:
   rombiki:
     groups:
     - helper
+  Motoshka:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
