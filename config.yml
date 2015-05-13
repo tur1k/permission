@@ -412,6 +412,8 @@ groups:
       libsdisguises.undisguiseentity: true
       libsdisguises.undisguiseplayer: true
       libsdisguises.undisguiseradius: true
+      libsdisguises.disguiseentity.*: true
+      libsdisguises.disguiseentity.*.*: true
 #
   worldedit:
     permissions:
