@@ -26,6 +26,7 @@ users:
   Minner:
     groups:
     - admin
+    - lobby
     - worldedit
     - commandblock
   Silvano:
@@ -79,9 +80,6 @@ users:
     - worldedit
     - root
   rombiki:
-    groups:
-    - helper
-  AnverCO:
     groups:
     - helper
 groups:
