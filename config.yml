@@ -83,6 +83,10 @@ users:
   rombiki:
     groups:
     - helper
+  RailGun:
+    groups:
+    - default
+    - creative
 groups:
 # Группа по-умолчанию
   default:
