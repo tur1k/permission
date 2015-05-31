@@ -71,6 +71,7 @@ users:
   BugyMan:
     groups:
     - helper
+    - creative
   denistv:
     groups:
     - default
