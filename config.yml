@@ -71,7 +71,6 @@ users:
   BugyMan:
     groups:
     - helper
-    - creative
   denistv:
     groups:
     - default
@@ -83,10 +82,6 @@ users:
   rombiki:
     groups:
     - helper
-  RailGun:
-    groups:
-    - default
-    - creative
 groups:
 # Группа по-умолчанию
   default:
