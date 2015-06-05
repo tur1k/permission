@@ -155,7 +155,7 @@ groups:
     - default
 #
   moder:
-    prefix: "&1Модератор"
+    prefix: "&9Модератор"
     permissions:
       worldprotect.admin: true
       worldprotect.region.world_the_end: true
