@@ -55,6 +55,7 @@ users:
   KnyzZ:
     groups:
     - moder
+    - inventory
   BugyMan:
     groups:
     - helper
@@ -516,5 +517,11 @@ groups:
   commandblock:
     permissions:
       commandblock.use: true
+#
+  inventory:
+    permissions:
+      essentials.enderchest.modify: true
+      essentials.invsee.modify: true
+      essentials.clearinventory.others: true
   dev:
     prefix: "&e&lDEV"
