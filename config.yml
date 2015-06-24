@@ -72,6 +72,9 @@ users:
   WooW:
     groups:
     - helper
+  SAW:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
