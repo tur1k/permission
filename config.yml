@@ -76,6 +76,9 @@ users:
   SAW:
     groups:
     - helper
+  Juggernaut:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
