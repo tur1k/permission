@@ -79,6 +79,9 @@ users:
   Juggernaut:
     groups:
     - helper
+  CheGevaro:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
