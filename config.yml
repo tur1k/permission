@@ -79,7 +79,7 @@ users:
     - spectator
   blablabla:
     groups:
-    - spectator
+    - spectator1
 groups:
 # Группа по-умолчанию
   default:
@@ -192,7 +192,7 @@ groups:
       essentials.fly.others: true
       essentials.god.others: true
     inheritance:
-    - default
+    - spectator
 #
   moder:
     prefix: "&9Модератор"
