@@ -193,6 +193,11 @@ groups:
       essentials.nick.magic: true
       essentials.fly.others: true
       essentials.god.others: true
+      essentials.nick.others: true
+      essentials.vanish.see: true
+      essentials.vanish.interact: true
+      essentials.vanish.others: true
+      essentials.vanish.effect: false
     inheritance:
     - spectator
 #
