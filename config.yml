@@ -166,6 +166,7 @@ groups:
     - default
 #
   spectator:
+    prefix: "Игрок"
     permissions:
       essentials.tp: true
       essentials.tp.position: true
@@ -183,6 +184,7 @@ groups:
     - default
 #
   spectator1:
+    prefix: "Игрок"
     permissions:
       essentials.gamemode: true
       essentials.nick: true
