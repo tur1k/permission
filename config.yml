@@ -74,6 +74,12 @@ users:
   CheGevaro:
     groups:
     - helper
+  Not_Silird:
+    groups:
+    - spectator
+  blablabla:
+    groups:
+    - spectator
 groups:
 # Группа по-умолчанию
   default:
@@ -156,6 +162,35 @@ groups:
       bessentials.ban.notify: true
       bessentials.mute.pardon: true
       spawn.other: true
+    inheritance:
+    - default
+#
+  spectator:
+    permissions:
+      essentials.tp: true
+      essentials.tp.position: true
+      essentials.fly: true
+      essentials.fly.safelogin: true
+      essentials.god: true
+      essentials.back: true
+      essentials.back.ondeath: true
+      bessentials.kick.notify: true
+      bessentials.mute.notify: true
+      bessentials.ban.notify: true
+      essentials.vanish: true
+      essentials.vanish.effect: true
+    inheritance:
+    - default
+#
+  spectator1:
+    permissions:
+      essentials.gamemode: true
+      essentials.nick: true
+      essentials.nick.color: true
+      essentials.nick.format: true
+      essentials.nick.magic: true
+      essentials.fly.others: true
+      essentials.god.others: true
     inheritance:
     - default
 #
