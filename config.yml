@@ -27,8 +27,6 @@ users:
     groups:
     - root
     - lobby
-    - worldedit
-    - commandblock
   Silird:
     groups:
     - root
