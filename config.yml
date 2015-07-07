@@ -15,6 +15,24 @@ users:
   Silird:
     groups:
     - spectator1
+    permissions:
+      worldprotect.admin: true
+      worldprotect.flag.build: true
+      worldprotect.flag.use: true
+      worldprotect.flag.damage: true
+      worldprotect.flag.teleport: true
+      worldprotect.flag.creatureSpawn: true
+      worldprotect.flag.entityBlockExplode: true
+      worldprotect.flag.command: true
+      worldprotect.flag.grow: true
+      worldprotect.flag.burn: true
+      worldprotect.flag.spread: true
+      worldprotect.flag.pva: true
+      worldprotect.flag.pve: true
+      worldprotect.flag.bukkitEmptyWater: true
+      worldprotect.flag.portalCreation: true
+      worldprotect.flag.hungry: true
+      worldprotect.flag.bukkitEmptyLava: true
   LittleFox:
     groups:
     - spectator
