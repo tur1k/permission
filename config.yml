@@ -2,152 +2,70 @@ format: "[&6%prefix&r] &3%name&7:&r %message"
 users:
   mete0:
     groups:
-    - spectator1
+    - dev
+    - root
+    - libsdisguises
+    - lobby
+    permissions:
+      essentials.silentjoin.vanish: true
+      essentials.speed.bypass: true
+      essentials.eco: true
+      essentials.exp.set: true
+      essentials.exp.set.others: true
+      essentials.exp.give: true
+      essentials.exp.give.others: true
   DsaaaaaaaASDD:
     groups:
-    - spectator1
+    - root
+    - libsdisguises
   narciss:
     groups:
-    - spectator1
+    - admin
+    - worldedit
+    - commandblock
   Minner:
     groups:
-    - spectator1
+    - admin
+    - lobby
+    - worldedit
+    - commandblock
   Silird:
     groups:
-    - spectator2
-  LittleFox:
-    groups:
-    - spectator
+    - root
+    - lobby
+    - libsdisguises
   Mephisto_Tersis:
     groups:
-    - spectator1
+    - admin
+    - worldedit
   Faust_Morrowizn:
     groups:
-    - spectator1
+    - moder
+    - worldedit
   Zemanter:
     groups:
-    - spectator
+    - helper
   1523132:
     groups:
-    - spectator
+    - DEV
+    - helper
   KnyzZ:
     groups:
-    - spectator1
+    - moder
+    - inventory
   BugyMan:
     groups:
-    - spectator
+    - helper
   rombiki:
     groups:
-    - spectator
+    - helper
   WooW:
     groups:
-    - spectator
+    - helper
   SAW:
     groups:
-    - spectator
+    - helper
   Juggernaut:
-    groups:
-    - spectator
-  NAFNAF:
-    groups:
-    - helper
-  Kseniya1221:
-    groups:
-    - helper
-  Serghiys:
-    groups:
-    - helper
-  shestbil:
-    groups:
-    - helper
-  bislan_199:
-    groups:
-    - helper
-  ENKA:
-    groups:
-    - helper
-  Alexstev:
-    groups:
-    - helper
-  Gottheit:
-    groups:
-    - helper
-  TheRainMaker84:
-    groups:
-    - helper
-  Dasha15:
-    groups:
-    - helper
-  Elina207:
-    groups:
-    - helper
-  Kvestgame:
-    groups:
-    - helper
-  blue_man145:
-    groups:
-    - helper
-  _Crafty_Craft_:
-    groups:
-    - helper
-  Emmett_Braun:
-    groups:
-    - helper
-  BIMBA:
-    groups:
-    - helper
-  warp_obmennic:
-    groups:
-    - helper
-  SventerGame:
-    groups:
-    - helper
-  Dovakhini98:
-    groups:
-    - helper
-  ShpiOn:
-    groups:
-    - helper
-  If:
-    groups:
-    - helper
-  Vitaliks:
-    groups:
-    - helper
-  G_I_R_L:
-    groups:
-    - helper
-  AxMaverick:
-    groups:
-    - helper
-  KorolRusKaraoke:
-    groups:
-    - helper
-  NiKe_MaN:
-    groups:
-    - helper
-  Margo_Miller1304:
-    groups:
-    - helper
-  Pasta_God:
-    groups:
-    - helper
-  MiLi:
-    groups:
-    - helper
-  gutier:
-    groups:
-    - helper
-  Zeroblade_:
-    groups:
-    - helper
-  VANGAI4:
-    groups:
-    - helper
-  Koroleva:
-    groups:
-    - helper
-  Zizza:
     groups:
     - helper
 groups:
@@ -209,8 +127,11 @@ groups:
   helper:
     prefix: "&2Помощник"
     permissions:
+      worldprotect.unlimited: true
       essentials.exp.others: true
       essentials.sleepingignored: true
+      essentials.kits.build: true
+      essentials.kits.vip_daily: true
       essentials.chat.color: true
       essentials.tp: true
       essentials.tp.position: true
@@ -221,6 +142,7 @@ groups:
       essentials.god: true
       essentials.back: true
       essentials.back.ondeath: true
+      essentials.hat: true
       bessentials.kick.set: true
       bessentials.kick.notify: true
       bessentials.mute.set: true
@@ -230,65 +152,6 @@ groups:
       spawn.other: true
     inheritance:
     - default
-#
-  spectator:
-    prefix: "Игрок"
-    permissions:
-      essentials.tp: true
-      essentials.tp.position: true
-      essentials.fly: true
-      essentials.fly.safelogin: true
-      essentials.god: true
-      essentials.back: true
-      essentials.back.ondeath: true
-      bessentials.kick.notify: true
-      bessentials.mute.notify: true
-      bessentials.ban.notify: true
-      essentials.vanish: true
-      essentials.vanish.effect: true
-    inheritance:
-    - default
-#
-  spectator1:
-    prefix: "Игрок"
-    permissions:
-      essentials.gamemode: true
-      essentials.nick: true
-      essentials.nick.color: true
-      essentials.nick.format: true
-      essentials.nick.magic: true
-      essentials.fly.others: true
-      essentials.god.others: true
-      essentials.nick.others: true
-      essentials.vanish.see: true
-      essentials.vanish.interact: true
-      essentials.vanish.others: true
-      essentials.vanish.effect: false
-    inheritance:
-    - spectator
-#
-  spectator2:
-    prefix: "Игрок"
-    permissions:
-      worldprotect.admin: true
-      worldprotect.flag.build: true
-      worldprotect.flag.use: true
-      worldprotect.flag.damage: true
-      worldprotect.flag.teleport: true
-      worldprotect.flag.creatureSpawn: true
-      worldprotect.flag.entityBlockExplode: true
-      worldprotect.flag.command: true
-      worldprotect.flag.grow: true
-      worldprotect.flag.burn: true
-      worldprotect.flag.spread: true
-      worldprotect.flag.pva: true
-      worldprotect.flag.pve: true
-      worldprotect.flag.bukkitEmptyWater: true
-      worldprotect.flag.portalCreation: true
-      worldprotect.flag.hungry: true
-      worldprotect.flag.bukkitEmptyLava: true
-    inheritance:
-    - spectator1
 #
   moder:
     prefix: "&9Модератор"
