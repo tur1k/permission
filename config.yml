@@ -102,9 +102,6 @@ users:
   warp_obmennic:
     groups:
     - helper
-  girl_1234:
-    groups:
-    - helper
   SventerGame:
     groups:
     - helper
@@ -130,9 +127,6 @@ users:
     groups:
     - helper
   KorolRusKaraoke:
-    groups:
-    - helper
-  Black55909:
     groups:
     - helper
   NiKe_MaN:
