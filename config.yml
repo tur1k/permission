@@ -60,9 +60,6 @@ users:
   Katia2002:
     groups:
     - helper
-  ANACONDA:
-    groups:
-    - helper
   Serghiys:
     groups:
     - helper
