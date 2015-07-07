@@ -68,6 +68,9 @@ users:
   Juggernaut:
     groups:
     - helper
+  NAFNAF:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
