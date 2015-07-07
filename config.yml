@@ -25,7 +25,7 @@ users:
     - commandblock
   Minner:
     groups:
-    - admin
+    - root
     - lobby
     - worldedit
     - commandblock
