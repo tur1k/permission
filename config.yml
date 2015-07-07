@@ -114,9 +114,6 @@ users:
   If:
     groups:
     - helper
-  Griegus:
-    groups:
-    - helper
   Vitaliks:
     groups:
     - helper
