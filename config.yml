@@ -2,84 +2,178 @@ format: "[&6%prefix&r] &3%name&7:&r %message"
 users:
   mete0:
     groups:
-    - dev
-    - root
-    - libsdisguises
-    - lobby
-    permissions:
-      essentials.silentjoin.vanish: true
-      essentials.speed.bypass: true
-      essentials.eco: true
-      essentials.exp.set: true
-      essentials.exp.set.others: true
-      essentials.exp.give: true
-      essentials.exp.give.others: true
+    - spectator1
   DsaaaaaaaASDD:
     groups:
-    - root
-    - libsdisguises
+    - spectator1
   narciss:
     groups:
-    - admin
-    - worldedit
-    - commandblock
+    - spectator1
   Minner:
     groups:
-    - admin
-    - lobby
-    - worldedit
-    - commandblock
+    - spectator1
   Silird:
     groups:
-    - root
-    - lobby
-    - libsdisguises
+    - spectator1
   LittleFox:
     groups:
-    - helper
+    - spectator
   Mephisto_Tersis:
     groups:
-    - admin
-    - worldedit
+    - spectator1
   Faust_Morrowizn:
     groups:
-    - moder
-    - worldedit
+    - spectator1
   Zemanter:
     groups:
-    - helper
+    - spectator
   1523132:
     groups:
-    - DEV
-    - helper
+    - spectator
   KnyzZ:
     groups:
-    - moder
-    - inventory
+    - spectator1
   BugyMan:
     groups:
-    - helper
+    - spectator
   rombiki:
     groups:
-    - helper
+    - spectator
   WooW:
     groups:
-    - helper
+    - spectator
   SAW:
     groups:
-    - helper
+    - spectator
   Juggernaut:
     groups:
-    - helper
-  CheGevaro:
-    groups:
-    - helper
-  Not_Silird:
-    groups:
     - spectator
-  blablabla:
+  NAFNAF:
     groups:
-    - spectator1
+    - helper
+  yaYANA123:
+    groups:
+    - helper
+  Kseniya1221:
+    groups:
+    - helper
+  Katia2002:
+    groups:
+    - helper
+  ANACONDA:
+    groups:
+    - helper
+  Serghiys:
+    groups:
+    - helper
+  shestbil:
+    groups:
+    - helper
+  bislan_199:
+    groups:
+    - helper
+  ENKA:
+    groups:
+    - helper
+  Alexstev:
+    groups:
+    - helper
+  Gottheit:
+    groups:
+    - helper
+  TheRainMaker84:
+    groups:
+    - helper
+  Allad1n:
+    groups:
+    - helper
+  Dasha15:
+    groups:
+    - helper
+  Elina207:
+    groups:
+    - helper
+  Kvestgame:
+    groups:
+    - helper
+  blue_man145:
+    groups:
+    - helper
+  _Crafty_Craft_:
+    groups:
+    - helper
+  Emmett_Braun:
+    groups:
+    - helper
+  BIMBA:
+    groups:
+    - helper
+  warp_obmennic:
+    groups:
+    - helper
+  girl_1234:
+    groups:
+    - helper
+  SventerGame:
+    groups:
+    - helper
+  Dovakhini98:
+    groups:
+    - helper
+  Sekai_no_omo:
+    groups:
+    - helper
+  ShpiOn:
+    groups:
+    - helper
+  If:
+    groups:
+    - helper
+  Griegus:
+    groups:
+    - helper
+  Vitaliks:
+    groups:
+    - helper
+  G_I_R_L:
+    groups:
+    - helper
+  AxMaverick:
+    groups:
+    - helper
+  KorolRusKaraoke:
+    groups:
+    - helper
+  Black55909:
+    groups:
+    - helper
+  NiKe_MaN:
+    groups:
+    - helper
+  Margo_Miller1304:
+    groups:
+    - helper
+  Pasta_God:
+    groups:
+    - helper
+  MiLi:
+    groups:
+    - helper
+  gutier:
+    groups:
+    - helper
+  Zeroblade_:
+    groups:
+    - helper
+  VANGAI4:
+    groups:
+    - helper
+  Koroleva:
+    groups:
+    - helper
+  Zizza:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
@@ -139,11 +233,8 @@ groups:
   helper:
     prefix: "&2Помощник"
     permissions:
-      worldprotect.unlimited: true
       essentials.exp.others: true
       essentials.sleepingignored: true
-      essentials.kits.build: true
-      essentials.kits.vip_daily: true
       essentials.chat.color: true
       essentials.tp: true
       essentials.tp.position: true
@@ -154,7 +245,6 @@ groups:
       essentials.god: true
       essentials.back: true
       essentials.back.ondeath: true
-      essentials.hat: true
       bessentials.kick.set: true
       bessentials.kick.notify: true
       bessentials.mute.set: true
