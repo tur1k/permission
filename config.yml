@@ -52,7 +52,7 @@ users:
     groups:
     - moder
     - inventory
-  BugyMan:
+  rombiki:
     groups:
     - helper
   WooW:
