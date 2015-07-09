@@ -302,7 +302,7 @@ groups:
     - moder
 # 
   root:
-    prefix: "&4root"
+    prefix: "&4r00t"
     permissions:
       minecraft.command.gamerule: true
       worldedit.limit: true
