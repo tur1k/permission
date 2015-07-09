@@ -23,7 +23,8 @@ users:
     - root
   Minner:
     groups:
-    - helper
+    - root
+    - lobby
   Silird:
     groups:
     - moder
