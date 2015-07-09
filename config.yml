@@ -20,16 +20,16 @@ users:
     - libsdisguises
   narciss:
     groups:
-    - admin
-    - worldedit
-    - commandblock
+    - root
   Minner:
     groups:
     - root
     - lobby
   Silird:
     groups:
-    - root
+    - admin
+    - worldedit
+    - commandblock
     - lobby
     - libsdisguises
   Mephisto_Tersis:
