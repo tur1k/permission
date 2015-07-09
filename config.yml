@@ -27,6 +27,7 @@ users:
     - lobby
   Silird:
     groups:
+    - moder
     - admin
     - worldedit
     - commandblock
