@@ -58,6 +58,9 @@ users:
   Juggernaut:
     groups:
     - helper
+  Immortal_:
+    groups:
+    - helper
 groups:
 # Группа по-умолчанию
   default:
