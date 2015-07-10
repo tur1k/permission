@@ -20,13 +20,18 @@ users:
     - libsdisguises
   narciss:
     groups:
-    - root
+    - admin
+    - worldedit
+    - commandblock
   Minner:
     groups:
-    - helper
+    - root
+    - lobby
   Silird:
     groups:
-    - helper
+    - root
+    - lobby
+    - libsdisguises
   Mephisto_Tersis:
     groups:
     - admin
