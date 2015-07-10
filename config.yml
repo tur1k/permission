@@ -24,15 +24,9 @@ users:
   Minner:
     groups:
     - helper
-    - lobby
   Silird:
     groups:
-    - moder
-    - admin
-    - worldedit
-    - commandblock
-    - lobby
-    - libsdisguises
+    - helper
   Mephisto_Tersis:
     groups:
     - admin
