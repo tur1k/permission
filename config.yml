@@ -4,7 +4,6 @@ users:
     groups:
     - dev
     - root
-    - libsdisguises
     - lobby
     permissions:
       essentials.silentjoin.vanish: true
@@ -17,7 +16,6 @@ users:
   DsaaaaaaaASDD:
     groups:
     - root
-    - libsdisguises
   narciss:
     groups:
     - admin
@@ -31,7 +29,6 @@ users:
     groups:
     - root
     - lobby
-    - libsdisguises
   Mephisto_Tersis:
     groups:
     - admin
@@ -343,6 +340,7 @@ groups:
     - plugman
     - worldedit
     - commandblock
+    - libsdisguises
 # access to lobby
   lobby:
     worlds:
