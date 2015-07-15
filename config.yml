@@ -89,9 +89,10 @@ groups:
       essentials.signs.create.protection: true
       essentials.signs.custom.use: true
       essentials.signs.break.protection: true
-      essentials.signs.use.balance: true
-      essentials.signs.use.buy: true
-      essentials.signs.use.warp: true
+      essentials.signs.balance.use: true
+      essentials.signs.buy.use: true
+      essentials.signs.warp.use: true
+      essentials.signs.sell.use: true
       essentials.silentquit: true
       essentials.silentjoin: true
       essentials.sethome.multiple: true
