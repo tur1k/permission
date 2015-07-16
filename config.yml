@@ -316,26 +316,8 @@ groups:
       essentials.god.pvp: true
       essentials.invsee.preventmodify: true
       essentials.socialspy.others: true
-      essentials.signs.create.custom: true
-      essentials.signs.create.balance: true
-      essentials.signs.create.buy: true
-      essentials.signs.create.disposal: true
-      essentials.signs.create.enchant: true
-      essentials.signs.create.free: true
-      essentials.signs.create.gamemode: true
-      essentials.signs.create.heal: true
-      essentials.signs.create.info: true
-      essentials.signs.create.kit: true
-      essentials.signs.create.mail: true
-      essentials.signs.create.repair: true
-      essentials.signs.create.sell: true
-      essentials.signs.create.time: true
-      essentials.signs.create.trade: true
-      essentials.signs.create.warp: true
-      essentials.signs.create.weather: true
-      essentials.signs.break.kit: true
-      essentials.signs.break.buy: true
-      essentials.signs.break.custom: true
+      essentials.signs.create.*: true
+      essentials.signs.break.*: true
       essentials.tptoggle.others: true
       essentials.weather: true
       essentials.gamemode.others: true
