@@ -101,6 +101,7 @@ groups:
       essentials.sethome.multiple: true
       essentials.msg: true
       essentials.balance: true
+      essentials.pay: true
       essentials.mail: false
       essentials.help: true
       essentials.home: true
