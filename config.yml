@@ -313,6 +313,7 @@ groups:
       spawn.set: true
       essentials.joinfullserver: true
       essentials.essentials: true
+      essentials.eco: true
       essentials.butcher: true
       essentials.god.pvp: true
       essentials.invsee.preventmodify: true
