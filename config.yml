@@ -226,7 +226,7 @@ groups:
       nocheatplus.bypass: true
       bessentials.ban.unlimited: true
       bessentials.mute.unlimited: true
-      essentials.balance.other: true
+      essentials.balance.others: true
       essentials.heal.cooldown.bypass: true
       essentials.list.hidden: true
       essentials.realname: true
