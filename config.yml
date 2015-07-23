@@ -195,7 +195,7 @@ groups:
       essentials.speed: true
       bessentials.ban.ip: true
       essentials.give: true
-      essentials.spawn.others: true
+      spawn.others: true
       bessentials.ban.set: true
       bessentials.ban.pardon: true
     inheritance:
