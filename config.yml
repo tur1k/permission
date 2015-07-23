@@ -149,7 +149,6 @@ groups:
       bessentials.mute.notify: true
       bessentials.ban.notify: true
       bessentials.mute.pardon: true
-      spawn.others: true
     inheritance:
     - default
 #
@@ -196,6 +195,7 @@ groups:
       essentials.speed: true
       bessentials.ban.ip: true
       essentials.give: true
+      spawn.others: true
       bessentials.ban.set: true
       bessentials.ban.pardon: true
     inheritance:
