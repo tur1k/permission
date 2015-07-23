@@ -149,7 +149,7 @@ groups:
       bessentials.mute.notify: true
       bessentials.ban.notify: true
       bessentials.mute.pardon: true
-      spawn.other: true
+      spawn.others: true
     inheritance:
     - default
 #
