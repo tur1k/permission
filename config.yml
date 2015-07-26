@@ -61,9 +61,6 @@ users:
   Juggernaut:
     groups:
     - helper
-  Immortal_:
-    groups:
-    - helper
   TimDavidson:
     groups:
     - creative
