@@ -67,6 +67,9 @@ users:
   Immortal_:
     groups:
     - helper
+  Paxdax:
+    groups:
+    - helper
   TimDavidson:
     groups:
     - creative
