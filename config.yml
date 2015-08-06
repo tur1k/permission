@@ -61,9 +61,6 @@ users:
   Juggernaut:
     groups:
     - helper
-  Bugyman:
-    groups:
-    - helper
   Immortal_:
     groups:
     - helper
