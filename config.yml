@@ -67,6 +67,9 @@ users:
   Paxdax:
     groups:
     - helper
+  BugyMan:
+    groups:
+    - helper
   TimDavidson:
     groups:
     - creative
