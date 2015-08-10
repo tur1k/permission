@@ -70,6 +70,9 @@ users:
   BugyMan:
     groups:
     - helper
+  pro100goxa:
+    groups:
+    - helper
   TimDavidson:
     groups:
     - creative
