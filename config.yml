@@ -73,6 +73,9 @@ users:
   pro100goxa:
     groups:
     - helper
+  GurrenTF:
+    groups:
+    - helper
   TimDavidson:
     groups:
     - creative
