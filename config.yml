@@ -79,6 +79,10 @@ users:
   Matrun:
     groups:
     - creative
+  Nagibator777:
+    groups:
+    - default
+    - root
 groups:
 # Группа по-умолчанию
   default:
