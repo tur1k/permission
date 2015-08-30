@@ -52,22 +52,10 @@ users:
   rombiki:
     groups:
     - helper
-  WooW:
-    groups:
-    - helper
-  SAW:
-    groups:
-    - helper
   Juggernaut:
     groups:
     - helper
   Immortal_:
-    groups:
-    - helper
-  Paxdax:
-    groups:
-    - helper
-  BugyMan:
     groups:
     - helper
   pro100goxa:
