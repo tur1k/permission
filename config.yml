@@ -37,6 +37,7 @@ users:
   Zemanter:
     groups:
     - helper
+    - creative
   1523132:
     groups:
     - DEV
