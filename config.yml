@@ -17,6 +17,10 @@ users:
     groups:
     - root
     - lobby
+  Minner:
+    groups:
+    - root
+    - lobby
   narciss:
     groups:
     - admin
