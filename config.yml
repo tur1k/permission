@@ -43,8 +43,7 @@ users:
     - helper
   KnyzZ:
     groups:
-    - moder
-    - inventory
+    - helper
   rombiki:
     groups:
     - helper
