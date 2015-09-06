@@ -21,11 +21,6 @@ users:
     groups:
     - root
     - lobby
-  narciss:
-    groups:
-    - admin
-    - worldedit
-    - commandblock
   Silird:
     groups:
     - root
