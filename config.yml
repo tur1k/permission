@@ -55,16 +55,21 @@ users:
   WooW:
     groups:
     - helper
+  Limax:
+    groups:
+    - helper
+  Natsu_Dragneel:
+    groups:
+    - helper
+  Serghiys:
+    groups:
+    - helper
   TimDavidson:
     groups:
     - creative
   Matrun:
     groups:
     - creative
-  Nagibator777:
-    groups:
-    - default
-    - root
 groups:
 # Группа по-умолчанию
   default:
