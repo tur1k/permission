@@ -19,7 +19,7 @@ users:
     - lobby
   Minner:
     groups:
-    - root
+    - admin
     - lobby
   Silird:
     groups:
@@ -65,9 +65,6 @@ users:
     groups:
     - helper
   TimDavidson:
-    groups:
-    - creative
-  Matrun:
     groups:
     - creative
 groups:
