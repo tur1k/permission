@@ -64,6 +64,9 @@ users:
   Serghiys:
     groups:
     - helper
+  BugyMan:
+    groups:
+    - helper
   TimDavidson:
     groups:
     - creative
