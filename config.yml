@@ -17,10 +17,6 @@ users:
     groups:
     - root
     - lobby
-  Minner:
-    groups:
-    - admin
-    - lobby
   Silird:
     groups:
     - root
@@ -39,9 +35,6 @@ users:
   1523132:
     groups:
     - DEV
-    - helper
-  KnyzZ:
-    groups:
     - helper
   rombiki:
     groups:
