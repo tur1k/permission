@@ -38,7 +38,7 @@ users:
     - helper
   rombiki:
     groups:
-    - helper
+    - moder
   Juggernaut:
     groups:
     - helper
