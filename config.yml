@@ -15,7 +15,6 @@ users:
       essentials.exp.give.others: true
   DsaaaaaaaASDD:
     groups:
-    - helper
     - root
     - lobby
   Silird:
