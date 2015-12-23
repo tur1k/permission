@@ -38,7 +38,7 @@ users:
     - helper
   rombiki:
     groups:
-    - moder
+    - helper
   Juggernaut:
     groups:
     - helper
@@ -46,9 +46,6 @@ users:
     groups:
     - moder
   WooW:
-    groups:
-    - helper
-  Limax:
     groups:
     - helper
   Natsu_Dragneel:
@@ -61,9 +58,6 @@ users:
     groups:
     - helper
   TimDavidson:
-    groups:
-    - creative
-  Matrun:
     groups:
     - creative
 groups:
