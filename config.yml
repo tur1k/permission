@@ -23,12 +23,15 @@ users:
     - lobby
   Mephisto_Tersis:
     groups:
-    - admin
+    - root
     - worldedit
   Faust_Morrowizn:
     groups:
     - moder
     - worldedit
+  KnyzZ:
+    groups:
+    - helper
   Zemanter:
     groups:
     - helper
