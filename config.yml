@@ -23,7 +23,7 @@ users:
     - lobby
   Mephisto_Tersis:
     groups:
-    - root
+    - admin
     - lobby
   Faust_Morrowizn:
     groups:
