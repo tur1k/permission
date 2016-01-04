@@ -24,6 +24,7 @@ users:
   Mephisto_Tersis:
     groups:
     - admin
+    - worldedit
     - lobby
   Faust_Morrowizn:
     groups:
