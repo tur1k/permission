@@ -39,7 +39,8 @@ users:
   1523132:
     groups:
     - DEV
-    - helper
+    - moder
+    - commandblock
   rombiki:
     groups:
     - helper
