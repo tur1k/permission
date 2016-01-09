@@ -30,9 +30,6 @@ users:
     groups:
     - moder
     - worldedit
-  KnyzZ:
-    groups:
-    - helper
   Zemanter:
     groups:
     - helper
