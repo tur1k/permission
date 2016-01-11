@@ -23,8 +23,7 @@ users:
     - lobby
   Mephisto_Tersis:
     groups:
-    - admin
-    - worldedit
+    - root
     - lobby
   Faust_Morrowizn:
     groups:
@@ -40,7 +39,7 @@ users:
     - commandblock
   rombiki:
     groups:
-    - helper
+    - moder
   Juggernaut:
     groups:
     - helper
