@@ -73,6 +73,7 @@ groups:
       worldprotect.flag.piston: true
       worldprotect.flag.vehicleNaturalDestroy: true
       minecraft.command.me: false
+      minecraft.command.tell: false
       worldedit.selection.pos: true
       worldedit.selection.hpos: true
       worldedit.wand: true
@@ -114,6 +115,9 @@ groups:
       essentials.kits.start: true
       essentials.time: true
       essentials.ignore: true
+      bessentials.kick.notify: true
+      bessentials.mute.notify: true
+      bessentials.ban.notify: true
     worlds:
       creative:
         worldprotect.region.creative: true
@@ -140,10 +144,7 @@ groups:
       essentials.back.ondeath: true
       essentials.hat: true
       bessentials.kick.set: true
-      bessentials.kick.notify: true
       bessentials.mute.set: true
-      bessentials.mute.notify: true
-      bessentials.ban.notify: true
       bessentials.mute.pardon: true
     inheritance:
     - default
