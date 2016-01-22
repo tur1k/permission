@@ -67,6 +67,9 @@ users:
   TimDavidson:
     groups:
     - creative
+  GurrenTF:
+    groups:
+    - creative
 groups:
 # Группа по-умолчанию
   default:
