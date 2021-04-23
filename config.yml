@@ -2,8 +2,9 @@ format: "[&6%prefix&r] &3%name&7:&r %message"
 users:
   mete0:
     groups:
+    - dev
     - root
-    - libsdisguises
+    - lobby
     permissions:
       essentials.silentjoin.vanish: true
       essentials.speed.bypass: true
@@ -12,86 +13,80 @@ users:
       essentials.exp.set.others: true
       essentials.exp.give: true
       essentials.exp.give.others: true
-  _000001:
+  Ab1e:
     groups:
     - root
-    - libsdisguises
-  narciss:
+    - lobby
+  DsaaaaaaaASDD:
     groups:
-    - admin
-    - worldedit
-  Minner:
-    groups:
-    - admin
-    - worldedit
-  _000004:
-    groups:
-    - helper
-  _000005:
-    groups:
-    - admin
-    - worldedit
-  _000006:
-    groups:
-    - helper
-  _000007:
-    groups:
-    - helper
+    - root
+    - lobby
   Silird:
     groups:
-    - moder
-    - worldedit
-  LittleFox:
-    groups:
-    - helper
-  _000010:
-    groups:
-    - helper
-  _000011:
-    groups:
     - root
-  _000012:
-    groups:
-    - moder
-    - worldedit
-  tur1k_:
-    groups:
-    - root
-    - libsdisguises
+    - lobby
   Mephisto_Tersis:
     groups:
-    - admin
-  _000015:
-    groups:
-    - helper
+    - root
+    - lobby
   Faust_Morrowizn:
     groups:
-    - admin
-  RUSSELL:
+    - moder
+    - worldedit
+  Zemanter:
     groups:
     - helper
-  swagMCswag:
+  1523132:
     groups:
-    - shleb
-    - default
-  xzenocide:
+    - DEV
+    - moder
+    - commandblock
+  rombiki:
     groups:
-    - hleb
-    - default
-  Grimp:
+    - moder
+  Juggernaut:
     groups:
-    - shleb
-    - default
-  Cendreta:
+    - helper
+  Immortal_:
     groups:
-    - chleb
-    - default
+    - moder
+  Dragon165_:
+    groups:
+    - moder
+  WooW:
+    groups:
+    - helper
+  Natsu_Dragneel:
+    groups:
+    - helper
+  Serghiys:
+    groups:
+    - helper
+  BugyMan:
+    groups:
+    - helper
+  Volshebniza:
+    groups:
+    - helper
+  TimDavidson:
+    groups:
+    - creative
+  GurrenTF:
+    groups:
+    - creative
 groups:
 # Группа по-умолчанию
   default:
     prefix: "Игрок"
     permissions:
-      bukkit.command.me: false
+      worldprotect.region.world: true
+      worldprotect.region.world_nether: true
+      worldprotect.region.world_the_end: false
+      worldprotect.flag.pvp: true
+      worldprotect.flag.piston: true
+      worldprotect.flag.vehicleNaturalDestroy: true
+      minecraft.command.me: false
+      minecraft.command.tell: false
       worldedit.selection.pos: true
       worldedit.selection.hpos: true
       worldedit.wand: true
@@ -101,27 +96,24 @@ groups:
       essentials.exp: true
       essentials.keepxp: true
       essentials.chat.shout: true
-      essentials.warps.end: true
-      essentials.warps.shop: true
-      essentials.warps.football: true
-      essentials.warps.hell: true
-      essentials.warps.newspawn: true
       essentials.warp: true
       essentials.warp.list: true
       essentials.signs.create.protection: true
       essentials.signs.custom.use: true
       essentials.signs.break.protection: true
-      essentials.signs.use.balance: true
-      essentials.signs.use.buy: true
-      essentials.signs.use.warp: true
+      essentials.signs.balance.use: true
+      essentials.signs.buy.use: true
+      essentials.signs.warp.use: true
+      essentials.signs.sell.use: true
+      essentials.signs.repair.use: true
       essentials.silentquit: true
       essentials.silentjoin: true
       essentials.sethome.multiple: true
       essentials.msg: true
       essentials.balance: true
+      essentials.pay: true
       essentials.mail: false
       essentials.help: true
-      essentials.spawn: true
       essentials.home: true
       essentials.home.bed: true
       essentials.sethome: true
@@ -136,15 +128,17 @@ groups:
       essentials.kits.start: true
       essentials.time: true
       essentials.ignore: true
-      essentials.warps.horseshop: true
-      essentials.warps.obmennik: true
+      bessentials.kick.notify: true
+      bessentials.mute.notify: true
+      bessentials.ban.notify: true
     worlds:
+      creative:
+        worldprotect.region.creative: true
       lobby:
-        worldprotect.admin: false
         worldedit.wand: false
 #
   helper:
-    prefix: "&aПомощник"
+    prefix: "&2Помощник"
     permissions:
       worldprotect.unlimited: true
       essentials.exp.others: true
@@ -162,27 +156,22 @@ groups:
       essentials.back: true
       essentials.back.ondeath: true
       essentials.hat: true
-      essentials.nick: true
-      essentials.nick.color: true
-      essentials.nick.format: true
-      essentials.nick.magic: true
-      essentials.kick: true
-      essentials.mute: true
-      essentials.mute.notify: true
-      essentials.kick.notify: true
-      essentials.ban.notify: true
+      bessentials.kick.set: true
+      bessentials.mute.set: true
+      bessentials.mute.pardon: true
     inheritance:
     - default
 #
   moder:
-    prefix: "&1Модератор"
+    prefix: "&9Модератор"
     permissions:
       worldprotect.admin: true
+      worldprotect.region.world_the_end: true
+      essentials.sethome.multiple.unlimited: true
       essentials.gc: true
       essentials.hat: true
       essentials.gamemode: true
       essentials.kill: true
-      essentials.spawn.others: true
       essentials.home.others: true
       essentials.tp.others: true
       essentials.tpaall: true
@@ -195,7 +184,6 @@ groups:
       essentials.feed.others: true
       essentials.heal: true
       essentials.heal.others: true
-      essentials.whois: true
       essentials.me: true
       essentials.motd: true
       essentials.kit.others: true
@@ -205,46 +193,76 @@ groups:
       essentials.enderchest: true
       essentials.enderchest.others: true
       essentials.invsee: true
-      essentials.kick: true
-      essentials.kick.notify: true
-      essentials.mute: true
-      essentials.mute.notify: true
+      essentials.nick: true
+      essentials.nick.color: true
+      essentials.nick.format: true
+      essentials.nick.magic: true
       essentials.vanish: true
       essentials.vanish.effect: true
-      essentials.seen: true
-      essentials.seen.banreason: true
-      essentials.seen.extra: true
-      essentials.seen.ipsearch: true
       essentials.near: true
       essentials.ext: true
       essentials.item: true
       essentials.speed: true
-      essentials.ban: true
-      essentials.banip: true
+      bessentials.ban.ip: true
+      essentials.give: true
+      spawn.others: true
+      bessentials.ban.set: true
+      bessentials.ban.pardon: true
     inheritance:
     - helper
+    worlds:
+      lobby:
+        worldprotect.admin: false
 #
   admin:
-    prefix: "&cАдмин"
+    prefix: "&4Админ"
     permissions:
+      worldprotect.flag.build: true
+      worldprotect.flag.use: true
+      worldprotect.flag.damage: true
+      worldprotect.flag.teleport: true
+      worldprotect.flag.creatureSpawn: true
+      worldprotect.flag.entityBlockExplode: true
+      worldprotect.flag.command: true
+      worldprotect.flag.grow: true
+      worldprotect.flag.burn: true
+      worldprotect.flag.spread: true
+      worldprotect.flag.pva: true
+      worldprotect.flag.pve: true
+      worldprotect.flag.bukkitEmptyWater: true
+      worldprotect.flag.portalCreation: true
+      worldprotect.flag.hungry: true
+      worldprotect.flag.bukkitEmptyLava: true
       nocheatplus.bypass: true
+      bessentials.ban.unlimited: true
+      bessentials.mute.unlimited: true
+      essentials.balance.others: true
+      essentials.heal.cooldown.bypass: true
+      essentials.list.hidden: true
+      essentials.realname: true
+      essentials.enderchest.modify: true
+      essentials.invsee.modify: true
+      essentials.signs.protection.override: true
+      essentials.vanish.see: true
+      essentials.vanish.interact: true
+      essentials.vanish.others: true
+      essentials.vanish.effect: false
+      mongoauth.account.create: true
+      bessentials.ban.immunity: true
+      bessentials.mute.immunity: true
+      bessentials.kick.immunity: true
       attack.pass_fly_attack: true
       attack.pass_god_attack: true
       essentials.kits.vip_daily: true
       essentials.kits.vip_monthly: true
       essentials.signs.color: true
-      essentials.signs.protection.override: true
       essentials.speed.fly: true
-      essentials.ban.exempt: true
-      essentials.unbanip: true
-      essentials.unban: true
       essentials.chat.url: true
       essentials.broadcast: true
       essentials.fly.others: true
       essentials.god.others: true
       essentials.kill.exempt: true
       essentials.sethome.others: true
-      essentials.sethome.multiple.unlimited: true
       essentials.delhome.others: true
       essentials.setwarp: true
       essentials.delwarp: true
@@ -256,24 +274,15 @@ groups:
       essentials.msg.magic: true
       essentials.msg.format: true
       essentials.msg.url: true
-      essentials.list.hidden: true
       essentials.kit.exemptdelay: true
       essentials.time.set: true
-      essentials.realname: true
+      essentials.tptoggle: true
       essentials.antioch: true
-      essentials.enderchest.modify: true
-      essentials.invsee.modify: true
-      essentials.kick.exempt: true
       essentials.lightning: true
       essentials.lightning.others: true
       essentials.burn: true
       essentials.killall: true
       essentials.remove: true
-      essentials.mute.exempt: true
-      essentials.vanish.see: true
-      essentials.vanish.interact: true
-      essentials.vanish.others: true
-      essentials.vanish.effect: false
       essentials.spawner: true
       essentials.spawner.*: true
       essentials.nick.others: true
@@ -292,6 +301,7 @@ groups:
       essentials.itemspawn.meta-book: true
       essentials.itemspawn.meta-head: true
       essentials.itemspawn.meta-firework: true
+      essentials.itemspawn.meta-name: true
       essentials.more: true
       essentials.repair: true
       essentials.repair.armor: true
@@ -301,77 +311,51 @@ groups:
       essentials.speed.walk: true
       essentials.unlimited: true
       essentials.enchantments.*: true
-      essentials.ban.offline: true
-      essentials.mute.offline: true
     inheritance:
     - moder
 # 
   root:
-    prefix: "&4root"
+    prefix: "&4r00t"
     permissions:
-      bukkit.command.gamerule: true
+      minecraft.command.gamerule: true
       worldedit.limit: true
       worldedit.global-mask: true
       worldedit.scripting.execute: true
-      essentials.setspawn: true
+      spawn.set: true
       essentials.joinfullserver: true
       essentials.essentials: true
+      essentials.eco: true
       essentials.butcher: true
       essentials.god.pvp: true
       essentials.invsee.preventmodify: true
-      essentials.kickall: true
       essentials.socialspy.others: true
-      essentials.signs.create.custom: true
-      essentials.signs.create.balance: true
-      essentials.signs.create.buy: true
-      essentials.signs.create.disposal: true
-      essentials.signs.create.enchant: true
-      essentials.signs.create.free: true
-      essentials.signs.create.gamemode: true
-      essentials.signs.create.heal: true
-      essentials.signs.create.info: true
-      essentials.signs.create.kit: true
-      essentials.signs.create.mail: true
-      essentials.signs.create.repair: true
-      essentials.signs.create.sell: true
-      essentials.signs.create.time: true
-      essentials.signs.create.trade: true
-      essentials.signs.create.warp: true
-      essentials.signs.create.weather: true
-      essentials.signs.break.kit: true
-      essentials.signs.break.buy: true
-      essentials.signs.break.custom: true
+      essentials.signs.create.*: true
+      essentials.signs.break.*: true
+      essentials.tptoggle.others: true
       essentials.weather: true
       essentials.gamemode.others: true
-    worlds:
-      lobby:
-        worldedit.wand: true
-        bukkit.command.gamemode: true
-        spawn.set: true
+      bessentials.mute.pardon.other: true
+      bessentials.ban.pardon.other: true
     inheritance:
     - admin
     - plugman
     - worldedit
-#
-  vip:
-    permissions:
-      essentials.fly: true
-      essentials.fly.safelogin: true
-      essentials.kits.vip_daily: true
-      essentials.kits.vip_monthly: true
-    inheritance:
-    - default
+    - commandblock
+    - libsdisguises
+# access to lobby
+  lobby:
+    worlds:
+      lobby:
+        worldedit.wand: true
+        minecraft.command.gamemode: true
+        worldprotect.admin: true
+        worldprotect.region.lobby: true
 # Группа строитель  
   builder:
-    prefix: "Архитектор"
+    prefix: "Architect"
     inheritance:
     - admin
     - worldedit
-# Скрытая группа, 
-  hidden:
-    prefix: "Игрок"
-    inheritance:
-    - root
 # Вспомогательные группы
   plugman:
     permissions:
@@ -410,6 +394,8 @@ groups:
       libsdisguises.undisguiseentity: true
       libsdisguises.undisguiseplayer: true
       libsdisguises.undisguiseradius: true
+      libsdisguises.disguiseentity.*: true
+      libsdisguises.disguiseentity.*.*: true
 #
   worldedit:
     permissions:
@@ -422,6 +408,7 @@ groups:
       worldedit.brush.smooth: true
       worldedit.brush.ex: true
       worldedit.brush.gravity: true
+      worldedit.brush.antigravity: true
       worldedit.chunk.info: true
       worldedit.chunk.list: true
       worldedit.chunk.delete: true
@@ -513,12 +500,17 @@ groups:
     prefix: "Креатив"
     permissions:
       essentials.gamemode: true
+    inheritance:
+    - default
 #
-  hleb:
-    prefix: "&cГлава ордена &aхлебушков"
+  commandblock:
+    permissions:
+      commandblock.use: true
 #
-  shleb:
-    prefix: "&eСвятой &aхлебушек"
-#
-  chleb:
-    prefix: "&eЦарица &aхлебушка"
+  inventory:
+    permissions:
+      essentials.enderchest.modify: true
+      essentials.invsee.modify: true
+      essentials.clearinventory.others: true
+  dev:
+    prefix: "&e&lDEV"
