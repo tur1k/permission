@@ -13,6 +13,10 @@ users:
       essentials.exp.set.others: true
       essentials.exp.give: true
       essentials.exp.give.others: true
+  Ab1e:
+    groups:
+    - root
+    - lobby
   DsaaaaaaaASDD:
     groups:
     - root
